@@ -1,0 +1,48 @@
+const trackTitles = [
+	{
+		title: 'A Forest',
+		src: './AForest.mp3',
+		place: 'Berlin?',
+		date: '2015',
+		author: 'Christian Loeffler',
+		performance: 'symphony/players',
+		directed: 'conductor',
+		performDate: 'recorded on ...',
+		description: 'notes on cultural use, circulation, etc.',
+	},
+	{
+		title: 'Pale Skin',
+		src: './PaleSkin.mp3',
+		place: 'Berlin?',
+		date: '2015',
+		author: 'Christian Loeffler',
+		performance: 'symphony/players',
+		directed: 'conductor',
+		performDate: 'recorded on ...',
+		description: 'notes on cultural use, circulation, etc.',
+	},
+	{
+		title: 'Eleven, featuring Mohna',
+		src: './ElevenfeatMohna.mp3',
+		place: 'Berlin?',
+		date: '2015',
+		author: 'Christian Loeffler',
+		performance: 'symphony/players',
+		directed: 'conductor',
+		performDate: 'recorded on ...',
+		description: 'notes on cultural use, circulation, etc.',
+	},
+	{
+		title: 'Ash & Snow',
+		src: './Ash&snow.mp3',
+		place: 'Berlin?',
+		date: '2015',
+		author: 'Christian Loeffler',
+		performance: 'symphony/players',
+		directed: 'conductor',
+		performDate: 'recorded on ...',
+		description: 'notes on cultural use, circulation, etc.',
+	},
+];
+
+export default trackTitles;

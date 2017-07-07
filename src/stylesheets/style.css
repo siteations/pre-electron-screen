@@ -1,0 +1,339 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3407895, 2017-06-17T12:06:44-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Appareo-MediumItalic by Kimmy Design
+ * URL: https://www.myfonts.com/fonts/kimmy/appareo/medium-italic/
+ * Copyright: Copyright (c) 2013 by Kimmy Design. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Appareo-Medium by Kimmy Design
+ * URL: https://www.myfonts.com/fonts/kimmy/appareo/medium/
+ * Copyright: Copyright (c) 2013 by Kimmy Design. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Texta-BoldIt by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/bold-italic/
+ * Copyright: Copyright (c) 2014 by Daniel Hernandez &amp; Miguel Hernandez. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Texta-It by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/italic/
+ * Copyright: Copyright (c) 2014 by Daniel Hernandez &amp; Miguel Hernandez. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: PeterJessenSchriftPro by SoftMaker
+ * URL: https://www.myfonts.com/fonts/softmaker/peter-jessen-schrift-pro/regular/
+ * Copyright: Copyright (c) 2012 by SoftMaker Software GmbH and its licensors. All rights reserved.
+ * Licensed pageviews: 1,000,000
+ *
+ * Webfont: Texta-Bold by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/bold/
+ * Copyright: Copyright (c) 2014 by Daniel Hernandez &amp; Miguel Hernandez. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ * Webfont: Texta-Regular by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/texta/regular/
+ * Copyright: Copyright (c) 2014 by Daniel Hernandez &amp; Miguel Hernandez. All rights reserved.
+ * Licensed pageviews: 10,000
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3407895
+ *
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/340017");
+
+
+@font-face {font-family: 'Appareo';font-weight: normal;font-style: italic;src: url('../fonts/340017_0_0.eot');src: url('../fonts/340017_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_0_0.woff2') format('woff2'),url('../fonts/340017_0_0.woff') format('woff'),url('../fonts/340017_0_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Appareo';font-weight: normal;font-style: normal;src: url('../fonts/340017_1_0.eot');src: url('../fonts/340017_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_1_0.woff2') format('woff2'),url('../fonts/340017_1_0.woff') format('woff'),url('../fonts/340017_1_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Texta';font-weight: bold;font-style: italic;src: url('../fonts/340017_2_0.eot');src: url('../fonts/340017_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_2_0.woff2') format('woff2'),url('../fonts/340017_2_0.woff') format('woff'),url('../fonts/340017_2_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Texta';font-weight: normal;font-style: italic;src: url('../fonts/340017_3_0.eot');src: url('../fonts/340017_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_3_0.woff2') format('woff2'),url('../fonts/340017_3_0.woff') format('woff'),url('../fonts/340017_3_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'PeterJessenSchriftPro';src: url('../fonts/340017_4_0.eot');src: url('../fonts/340017_4_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_4_0.woff2') format('woff2'),url('../fonts/340017_4_0.woff') format('woff'),url('../fonts/340017_4_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Texta';font-weight: bold;font-style: normal;src: url('../fonts/340017_5_0.eot');src: url('../fonts/340017_5_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_5_0.woff2') format('woff2'),url('../fonts/340017_5_0.woff') format('woff'),url('../fonts/340017_5_0.ttf') format('truetype');}
+
+
+@font-face {font-family: 'Texta';font-weight: normal;font-style: normal;src: url('../fonts/340017_6_0.eot');src: url('../fonts/340017_6_0.eot?#iefix') format('embedded-opentype'),url('../fonts/340017_6_0.woff2') format('woff2'),url('../fonts/340017_6_0.woff') format('woff'),url('../fonts/340017_6_0.ttf') format('truetype');}
+
+
+body {
+	background-color: #e6e1d3;
+}
+
+.pjheader {
+	font-family: 'PeterJessenSchriftPro';
+	letter-spacing: 2px;
+	font-size:5em;
+}
+
+.pj {
+	font-family: 'PeterJessenSchriftPro'!important;
+}
+
+.appareo {
+	font-family:'Appareo'!important;
+	font-weight: bold !important;
+}
+
+.texta {
+	font-family:'Texta'!important;
+}
+
+h1,h3, h2,h4,h5 {
+	font-family:'Appareo';
+}
+
+p,li {
+	font-family:'Texta';
+}
+
+a {
+	color: #000;
+}
+
+a:visited {
+	color: #505050;
+}
+
+.black{
+	color: #000;
+	fill: #000;
+}
+
+.sources {
+	color: #bf360c;
+	fill: #bf360c;
+}
+
+.sourceStroke {
+	fill: #bf360c;
+	fill-opacity: .02;
+	stroke:#bf360c;
+	stroke-width: 2px;
+	stroke-dasharray: 2px;
+    rx: 5px;
+    ry: 5px;
+}
+
+.red {
+	color: #bf360c;
+	fill: #bf360c;
+}
+
+.translations {
+	color: #0c95bf;
+	fill: #0c95bf;
+}
+
+.transStroke {
+	fill: #0c95bf;
+	fill-opacity: .02;
+	stroke:#0c95bf;
+	stroke-width: 2px;
+	stroke-dasharray: 2px;
+  rx: 5px;
+  ry: 5px;
+}
+
+.blue {
+	color: #0c95bf;
+	fill: #0c95bf;
+}
+
+.tools {
+	color: #bf900c;
+	fill: #bf900c;
+}
+
+.toolsStroke {
+	fill: #bf900c;
+	fill-opacity: .02;
+	stroke:#bf900c;
+	stroke-width: 2px;
+	stroke-dasharray: 2px;
+    rx: 5px;
+    ry: 5px;
+}
+
+
+.yellow {
+	color: #bf900c;
+	fill: #bf900c;
+}
+
+.underline {
+	text-decoration: underline;
+	text-decoration-color: #BF360C;
+}
+
+.layer1 {
+	background-color: #f4f2ec;
+}
+
+.layer1dark {
+	background-color: #edeae0;
+}
+
+.layerwhite {
+	background-color: #fbfbf8;
+}
+
+.layerfullwhite {
+	background-color: #ffffff;
+}
+
+.white {
+	color: #fbfbf8;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.notBold {
+	font-weight: normal;
+}
+
+.navbar {
+	/*min-height: 4vh;*/
+	top: 4.5vh;
+
+}
+
+.fullheight {
+  min-height: 240px;
+}
+
+.fullheight2 {
+	min-height: 510px;
+}
+
+.navbarG {
+	/*max-height: 7.2vh;*/
+	top: 0vh;
+	overflow: hidden;
+	background-color: #444444;
+}
+
+.footerFill {
+	/*max-height: 7.2vh;*/
+	background-color: #444444;
+}
+
+.navbarG:hover {
+	top: 0;
+}
+
+.navcolor {
+	background-color: #444444;
+}
+
+.down:hover {
+	color:#BF360C;
+}
+
+.bshadowed {
+	box-shadow: 0 0 3px #808080;
+}
+
+.bshadowInner {
+	box-shadow: inset 0 0 5px #808080;
+}
+
+.bshadowlite {
+	box-shadow: 0 0 1px #808080;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.borderDark {
+	border: solid 1px #000000;
+}
+
+.bshadowedlite {
+	box-shadow: 0 0 1px #808080;
+	border-radius: 5px;
+	padding: 10px;
+	width:99%;
+	margin-top: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.pre-jumbotron {
+	margin-top: 17vh;
+}
+
+.jumbotron h1, .jumbotron .h1 {
+     color: #fff;
+}
+
+.jumbotron {
+	background-color:#000000;
+	border-radius: 5px;
+	background-image: url(London-header.png);
+	background-repeat: no-repeat;
+  background-position: center;
+}
+
+.pad10 {
+	padding: 0px 10px;
+}
+
+.m20 {
+	margin: 20px 0px;
+}
+
+.page {
+	border: solid 0.5px #ffffff;
+	border-radius: 5px;
+	padding: 20px;
+}
+
+.thumb25 {
+	width: 25%;
+	padding: 0px 2% 2% 2%;
+}
+
+.introImg {
+	width: 60%;
+	padding: 2%;
+	border-radius: 5px;
+}
+
+.plarge {
+	font-size: 1em;
+}
+
+.fa-sm {
+	font-size: .75em;
+}
+
+.footTitle {
+	font-size: 1.25rem;
+	font-family: 'Lato';
+	text-transform: uppercase;
+}
+
+.logoPointer {
+	cursor: pointer;
+}

@@ -1,0 +1,208 @@
+.cke_chrome {border-radius:0px !important;}
+.cke_reset {width:100% !important;}
+.cke_dialog_ui_html {white-space: normal !important;}
+.cke_dialog_ui_checkbox label {cursor:pointer !important;}
+
+.cke_button__scalar1,
+.cke_button__scalar2,
+.cke_button__scalar3,
+.cke_button__scalar4,
+.cke_button__scalar5,
+.cke_button__scalar6,
+.cke_button__scalar8,
+.cke_button__scalar9 {
+	background-color:#2894b8 !important;
+	margin-left:1px !important;
+	margin-right:1px !important;
+}
+.cke_button__scalar7 {
+	background-color:#9b9b9b !important;
+	margin-left:1px !important;
+	margin-right:1px !important;
+}
+.cke_button__scalar1:hover,
+.cke_button__scalar2:hover,
+.cke_button__scalar3:hover,
+.cke_button__scalar4:hover,
+.cke_button__scalar5:hover,
+.cke_button__scalar6:hover,
+.cke_button__scalar8:hover,
+.cke_button__scalar9:hover {
+	background-color:#1d6e88 !important;
+}
+.cke_button__scalar7:hover {
+	background-color:#6f6f6f !important;
+}
+
+#scalarLinkTooltip{
+	border: 2px solid #bbbbbb;
+	position: fixed;
+	background-color: #cccccc;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+#scalarLinkTooltip .thumbnail{
+	margin: 0px;
+}
+#scalarLinkTooltip .thumbnail img{
+	max-width: 200px;
+}
+#scalarLinkTooltip:after{
+	content: '';
+	position: absolute;
+	top: -12px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 10px 10px 10px;
+	border-color: transparent transparent #bbbbbb transparent;
+	left: 36px;
+}
+
+
+.gearIcon, .redxIcon{
+	width: 26px;
+	height: 25px;
+	background-position: center center; background-repeat: no-repeat;
+	opacity: .5;
+	cursor: pointer;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 20px;
+  padding: 15px;
+  opacity: .9;
+  background-position: center;
+}
+.gearIcon{
+	background-image: url(plugins/scalar/styles/gearIcon.png);
+}
+.redxIcon{
+	background-image: url(plugins/scalar/styles/redxIcon.png);
+}
+.gearIcon:hover,.redxIcon:hover{
+	opacity: 1;
+	-webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,.25);
+	-moz-box-shadow: 1px 1px 10px 0px rgba(0,0,0,.25);
+	box-shadow: 1px 1px 10px 0px rgba(0,0,0,.25);
+}
+
+#scalarLinkTooltip .gearIcon, #scalarLinkTooltip .redxIcon{
+	position: absolute;
+  top: 10px;
+}
+#scalarLinkTooltip .gearIcon{
+	right: 10px;
+}
+#scalarLinkTooltip .redxIcon{
+	left: 10px;
+}
+#scalarInlineGearIcon, #scalarInlineRedXIcon{
+	position: absolute;
+	display: none;
+}
+.selectedItemPreview .description{
+	width: 100%;
+	overflow-y: auto;
+	max-height: 8rem;
+  border: 0;
+  border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 1rem;
+}
+#bootbox-media-options-form hr{
+	border-bottom: 1px solid #e5e5e5;
+}
+.parentThumb{
+	max-width: 75px;
+	max-height: 75px;
+	margin: 1rem 1rem 0 0;
+}
+
+#wysiwygNewFeatures{
+	font-size: 1.4rem;
+	padding: 1rem;
+	margin-right:-8px;
+}
+#wysiwygNewFeatures hr{
+	border-bottom: 0;
+	border-top: 1px solid #f7e1b5;
+	margin: 1rem 0;
+}
+#wysiwygNewFeatures>button{
+	background-image: none;
+	font-size: 2.4rem;
+  line-height: 2.4rem;
+  height: 2.4rem;
+  padding: 0px;
+	opacity: .5;
+}
+#wysiwygNewFeatures>button:hover{
+	opacity: .75;
+	outline: none;
+}
+#insertInlineWidgetIconButton,#insertLinkedWidgetIconButton{
+	display: none;
+}
+.widget_type{
+	cursor: pointer;
+	padding: 1rem;
+}
+.widget_data_type{
+	padding: 1rem 0;
+}
+.widget_type:hover{
+	background-color: #d9edf7;
+}
+.widget_type a:hover{
+	text-decoration: none;
+}
+.widget_type img{
+	height: 4rem;
+  margin-right: 1rem;
+  margin-top: .25rem;
+}
+.node_selector_body,.node_selector_body tbody, .timeline_external_url_selector{
+	padding: 1rem;
+}
+.table-fixed th{
+	font-weight: bold;
+	color: #bcb0b0;
+	border-bottom: 2px solid #e3e3e3;
+}
+.node_selector_body tbody{
+	border-top: 0px
+}
+.node_selector_body tbody tr{
+	cursor: pointer;
+}
+.node_selector_body tbody tr.empty{
+	cursor: default;
+}
+.node_selector_body tbody tr .glyphicon{
+	opacity: .25;
+}
+.node_selector_body tbody tr:hover .glyphicon,.node_selector_body tbody tr .glyphicon-check{
+	opacity: .75;
+}
+.carousel_multi_selection .alert{
+	padding: .5rem;
+	margin: .5rem 0;
+}
+.content_selector_scroll{
+	max-height: 300px;
+	overflow-y: auto;
+}
+.modal-dialog table{
+	font-size: 14px;
+}
+@media (max-width: 767px){
+	.selectedItemPreview .mediaDescription{
+			display: none;
+	}
+
+	.widget_selector_bootbox .modal-dialog{
+		width: 96% !important;
+		margin-left: 2% !important;
+    margin-right: 2% !important;
+	}
+
+}
