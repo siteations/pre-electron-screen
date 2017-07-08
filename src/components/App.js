@@ -35,7 +35,7 @@ import Poly from './Poly';
 import Biblio from './Biblio';
 import {Footer} from './Footer';
 import AudioFooter from './AudioFooter';
-import Broads from './Broads.js';
+import Frame from './Broads.js';
 
 const muiTheme = getMuiTheme({
   fontFamily: 'texta',
@@ -71,8 +71,9 @@ class App extends Component {
     <MuiThemeProvider muiTheme={muiTheme} >
       <div className="App container-fluid">
       {loc === '/' &&
-        <div>
-          index here
+        <div style={{marginTop: '7vh'}} >
+          index here<br/>
+          to includes all major sites
         </div>
       }
       {loc === '/polyglot' &&
@@ -86,11 +87,34 @@ class App extends Component {
       }
       {loc === '/broadsides' &&
         <div>
-          <Broads info={this.props}/>
+          <Frame info={this.props}/>
         </div>
       }
-
-
+      {loc === '/luther' &&
+        <div>
+          <Frame info={this.props}/>
+        </div>
+      }
+      {loc === '/bibles' &&
+        <div>
+          <Frame info={this.props}/>
+        </div>
+      }
+      {loc === '/america' &&
+        <div>
+          <Frame info={this.props}/>
+        </div>
+      }
+      {loc === '/playlist' &&
+        <div>
+          <Frame info={this.props}/>
+        </div>
+      }
+      {loc === '/other' &&
+        <div>
+          <Frame info={this.props}/>
+        </div>
+      }
       <Nav info={this.props} />
       <Footer />
       </div>

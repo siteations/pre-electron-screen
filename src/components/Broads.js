@@ -2,17 +2,18 @@ import React, { Component } from 'react';
 
 //import body from '../broadsides/Broadsides-Intro.js'
 
-class Broads extends Component {
+class Frame extends Component {
 	constructor(props) {
         super(props);
         this.state = {
-          height: '700px',
+          height: '700',
         }
   }
 
-  onComponentDidMount(){
+    componentDidMount() {
+          this.setState({height: window.innerHeight-58});
 
-  }
+    }
 
   render() {
 
@@ -22,11 +23,11 @@ class Broads extends Component {
 
     return (
       <div>
-      <iFrame src="./broad/Broadsides-Index.html" width='110%' height={this.state.height} style={{margin: '-5vw', padding: '0', position: 'fixed', top:'4.95vw'}}/>
+      <iFrame src="./broad/Broadsides-Index.html" width='110%' height={`${this.state.height}px`} style={{margin: '-5vw', padding: '0', position: 'fixed', top:'4.95vw'}}/>
       really?
       </div>
     );
   }
 }
 
-export default Broads;
+export default Frame;
