@@ -20,19 +20,24 @@ export const indexMenu = [
 		id: 3,
 	},
 	{
+		title: 'religious life in venice',
+		src: '/venice',
+		id: 4,
+	},
+	{
 		title: 'bible in print',
 		src: '/bibles',
-		id: 4,
+		id: 5,
 	},
 	{
 		title: 'religious playlist',
 		src: '/playlist',
-		id: 5,
+		id: 6,
 	},
 	{
 		title: 'print in america',
 		src: '/america',
-		id: 6,
+		id: 7,
 	},
 	{
 		title: 'other',
@@ -45,14 +50,20 @@ export const indexMenu = [
 
 export const indexSubpages = {
 	'/': [
-		{menu:'index', push:'/', hash: null, src: '/'}
+		{menu:'Italian Religious Broadsides', push:'/broadsides' },
+		{menu:'Cathedrals of Print', push:'/polyglot' },
+		{menu:'luther controversey', push:'/luther' },
+		{menu:'bibles in print', push:'/bibles' },
+		{menu:'religious playlist', push:'/playlist' },
+		{menu:'print in america', push:'/america' },
+		{menu:'other', push:'/other' },
 		],
 	'/broadsides': [
 		{menu:'index', push:'/broadsides', hash: null, src: './broad/Broadsides-Index.html'},
 		{menu:'introduction', push:'/broadsides#intro', hash: '#intro', src: './broad/Broadsides-Introduction.html'},
 		{menu:'guide to research', push:'/broadsides#guide', hash: '#guide', src: './broad/Broadsides-Guide-to-Research.html'},
 		{menu:'broadside images', push:'/broadsides#images', hash: '#images', src: './broad/Broadsides-ImageViewer.html'},
-		{menu:'downloads', push:'/broadsides#downloads', hash: '#downloads', src: './broad/Broadsides-Downloads.html'},
+		{menu:'bibliography', push:'/broadsides#biblio', hash: '#biblio', src: './broad/Broadsides-Bibliography.html'},
 		{menu:'about', push:'/broadsides#about', hash: '#about', src: './broad/Broadsides-About-This-Site.html'}
 	],
 	'/polyglot': [
@@ -67,11 +78,17 @@ export const indexSubpages = {
 		{menu:'London (1657)', push:'/polyglot#inter-London', hash: '#inter-London', },
 		{menu:'Bibliography', push:'/polyglot#biblio', hash: '#biblio', },
 	],
+	'/venice': [
+			{menu:'introduction', push:'/venice', hash: null },
+		],
 	'/luther': [
 			{menu:'introduction', push:'/luther', hash: null, src: './storymap/luther.html' },
 		],
 	'/bibles': [
 			{menu:'introduction', push:'/bibles', hash: null, src: './storymap/bibles.html' },
+		],
+	'/america': [
+			{menu:'introduction', push:'/america', hash: null, src: './timeline/index.html'  },
 		]
 
 }

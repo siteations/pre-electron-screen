@@ -16,7 +16,7 @@ class Nav extends Component {
     this.state = {
     	page: indexMenu[0],
       otherPages: indexMenu,
-      submenu: '',
+      submenu: [],
 
     };
     this.pushHome = this.pushHome.bind(this);
@@ -26,11 +26,13 @@ class Nav extends Component {
     const match = indexMenu.filter((item) =>{
       return item.id === +event.target.value;
     })[0];
-    this.setState({page:match});
+    this.setState({page:match, submenu: indexSubpages[match.src] });
     this.props.info.history.push(match.src);
   };
 
-  handleChangeMenu = (event, child) => this.setState({submenu: child.props.value}, this.props.info.history.push(child.props.value));
+  handleChangeMenu = (event, child) => {
+    this.props.info.history.push(child.props.value);
+  }
 
   pushHome = (e)=>{
     this.props.info.history.push('/');
@@ -41,13 +43,11 @@ class Nav extends Component {
     const match = indexMenu.filter(item=>{
       return item.src === site;
     })[0];
-    this.setState({page:match});
+    this.setState({page:match, submenu: indexSubpages[site]});
   }
 
 
   render() {
-
-    console.log(this.state);
 
 	return (
 	     <div className="navbarG navbar-fixed-top bshadowed">
@@ -60,20 +60,27 @@ class Nav extends Component {
                 onItemTouchTap={this.handleChangeMenu}
                 style={{'backgroundColor': '#444444', color: '#fff'}}
               >
-                <MenuItem
-                  value={'test'}
-                  primaryText={'test'}
+              {this.state.submenu.length>0 &&
+                this.state.submenu.map(menuItem=>{
+                return (
+                        <MenuItem
+                  value={menuItem.push}
+                  primaryText={menuItem.menu}
                   className={'texta'}
                   style={{'backgroundColor': '#444444', color: '#fff'}}
                 />
+                )
+
+                })
+              }
             </IconMenu>
             </div>
             <div className="col-md-1 hidden-xs hidden-sm" style={{maxWwidth: '768px', wordWrap: 'break-word'}}><span className="logoPointer" style={{verticalAlign: 'baseline'}}> <img src="./newberry_logo_dark_small.png" onClick={e=>this.pushHome(e)} style={{height:'40px', margin: '.5vh', float: 'right'}} /></span>
             </div>
             <div className="col-sm-3 col-xs-11">
             <select className="navbar-link text-uppercase titleOptions logoPointer" onChange={this.handleChange} value={this.state.page.id}>
-              {this.state.otherPages &&
-                this.state.otherPages.map(page=>{
+              {indexMenu &&
+                indexMenu.map(page=>{
                   return <option className="navbar-link text-uppercase titleOptions" value={page.id}>{page.title}<ExpandMore color={'white'}  /></option>
                 })
               }

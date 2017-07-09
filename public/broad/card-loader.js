@@ -2,30 +2,6 @@ var files = ["case_wing_zc_93_185_fl_001_001.jpg","case_wing_zc_93_185_fl_001_00
 
 //_meta.xml vs. .jpg for the two series
 
-
-/* xml sample
-  <identifier>case_wing_zc_93_185_fl_001_001</identifier>
-  <call_number>Case Wing oversize ZC 93 .185</call_number>
-  <collection>newberry</collection>
-  <contributor>The Newberry Library</contributor>
-  <coverage>Italy</coverage>
-  <date>1658</date>
-  <description>Collection of 154 religious broadsides printed in Italy between 1611 and 1697. These broadsides were issued for various Catholic feast days and other religious occasions; the majority of items feature sonnets related to these topics. Many broadsides were commissioned by confraternities or trade guilds and most were dedicated to clerical or noble patrons of these organizations.</description>
-  <language>ita</language>
-  <link_to_catalog>https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&amp;v1=1&amp;BBRecID=308272</link_to_catalog>
-  <mediatype>texts</mediatype>
-  <physical_description>1 box (154 sheets) : illustrations, coats of arms ; 48 x 35 cm</physical_description>
-  <publisher>Italy</publisher>
-  <rights>All rights reserved by the Newberry Library. Permission to reproduce in any format must be requested in writing. Contact Digital Initiatives and Services, Newberry Library, 60 W. Walton St., Chicago, IL 60610. Phone: 312-255-3566. E-mail: rightsandrepro@newberry.org</rights>
-  <title>Saint Andrew Apostle</title>
-  <subject>Fasts and feasts</subject>
-  <subject>Church history</subject>
-  <subject>Christian saints</subject>
-  <subject>Patronage, Ecclesiastical</subject>
-  <subject>Guilds</subject>
-  <subject>Holy Spirit</subject>
-  */
-
 $(document).ready(function() {
     $cards=$('#cards');
     //$('#prior').click=files[files.length-1]
@@ -56,20 +32,6 @@ $(document).ready(function() {
 					            </div>
         					</div>`
 
-    //     const reloadImage = (element, i)=> {
-    //     		$('#imglink').attr('href', element.image );
-    //     		$('#mainImage').attr('src', element.image );
-    //     		$('#mainImage').attr('value', i);
-    //     		$('#mTitle').text(element.title);
-    //     		$('#mCall').text(element.call);
-
-    //     		$('#date').text(element.coverage +', '+element.date);
-    //     		$('#physical').text(element.physical);
-    //     		$('#desc').text(element.description);
-
-    //     		$('#subjects').text(element.subject.join(' . '));
-				// }
-
 	        	$cards.append(card)
 
 	        	$(`#thumb${i}`).click(e=>{
@@ -78,29 +40,10 @@ $(document).ready(function() {
 	        	})
         	});
 
-
-
-
 			});
 
-    // $('#mainImage').change(()=>{
-
-	   //      var less=(i-1>-1)? i-1: 0;
-	   //      var more =(i+1<elementData.length-1)? i+1: elementData.length-1;
-
-	   //      $('#prior').click(e=>{
-		  //       		var element = elementData[less];
-		  //       		reloadImage(element);
-	   //      		});
-
-	   //      $('#next').click(e=>{
-		  //       		var element = elementData[more];
-		  //       		reloadImage(element);
-	   //      		});
-
-    // });
 const reloadImage = (element, i)=> {
-        		$('#imglink').attr('href', element.image );
+        		//$('#imglink').attr('href', element.image );
         		$('#mainImage').attr('src', element.image );
         		$('#mainImage').attr('value', i);
         		$('#mTitle').html(`<em>${element.title}</em>`);

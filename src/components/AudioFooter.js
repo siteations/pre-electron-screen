@@ -39,6 +39,7 @@ class AudioFooter extends Component {
       <ReactAudioPlayer
         src={soundFiles[this.state.trackId]}
         onEnded={e=>this.switchTrack(e)}
+        autoPlay="true"
       />
       <p style={{marginBottom: '0px'}}><span className="footTitle">Religious Playlist </span> now playing <span className="appareo" style={{fontSize: '1.25rem'}}><em>{trackTitles[this.state.trackId].title}</em></span></p>
       </div>
