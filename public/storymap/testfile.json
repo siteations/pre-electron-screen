@@ -1,0 +1,800 @@
+
+
+{
+   "storymap": {
+      "call_to_action": true,
+      "zoomify": {
+         "path": "./novacco_2f_20_medium/",
+         "width": 6306,
+         "height": 4872
+      },
+      "slides": [
+         {
+            "date": "  ",
+            "media": {
+               "url": "",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "overview",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": null,
+               "lon": null
+            },
+            "text": {
+               "headline": "<div id='firsttitle'>Tracking the Luther Controversy<\/div>",
+               "text": "<br>",
+               "subtitle": "",
+               "citation": "",
+               "digilink": "",
+               "digiselection": "",
+               "cataloglink": ""
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/wing_zp_547_l23_sig_aiv_aiir_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 49.21042,
+               "lon": -71.54297
+            },
+            "text": {
+               "headline": "Sermon on Three-Fold Righteousness",
+               "text": "Luther’s publishing career kicked into high gear in 1518, after the 95 Theses had given him a larger public platform than he had ever anticipated. Most of the early works to reach the market were sermons, which he gave regularly as a parish priest in Wittenberg. Many of these still showed him to be a “good monk” who defended traditional theological practices that he would later oppose. In the sermon shown here, for instance, Luther discussed the three ways humans could become righteous, one of which was by doing good works. This conflicted with Luther’s belief that faith, not works, guaranteed salvation, and the following year he would give another sermon on righteousness that omitted works as an option. Nevertheless, this very traditional sermon went through 9 editions by 1520.",
+               "subtitle": "1518 : Leipzig, Germany",
+               "citation": "<i>Sermo de triplici justitia R. Patris Martini Luther Augustiniani Vuittembergensis<\/i> by Martin Luther. Leipzig: Melchior Lotter, 1518.",
+               "digilink": "https://archive.org/stream/wing_zp_547_l23#page/n5/mode/2up",
+               "digiselection": "",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519057"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_4a_902_no_08_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.569283,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "A Sermon on the Institution of Marriage",
+               "text": "By 1519, interest in Luther’s ideas had grown so much that the general public was eager to read (and buy) anything he had to say. The sermon here is a fine example of this new reality. Originally preached early in 1519, it was a discussion of the institution of marriage, which Luther believed was wholly dedicated to bearing and raising children. Unbeknownst to him, someone in the audience transcribed the sermon and had it printed in nearby Leipzig. Luther was not at all pleased with this bootleg copy (nor of the fact that it went through 5 editions almost immediately). In May, he published a “revised and corrected” version of his own. The incident taught Luther a valuable lesson, and thereafter he would work closely with his printers to ensure that his works reached the public exactly as he wanted them to appear.",
+               "subtitle": "1519 : Wittenberg, Germany",
+               "citation": "<i>Eyn Sermon von dem Elichen Standt vorendert vud [sic] corrigiret</i> by Martin Luther. Wittenberg: Johann Rhau-Grunenberg, 1519.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2213",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519122"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_521_tp_12_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 49.21042,
+               "lon": -71.54297
+            },
+            "text": {
+               "headline": "A Sermon on Preparing for Death",
+               "text": "Before the end of 1519, Luther’s stance against the Roman Church had hardened to the point that works not intended to directly address the causa Lutheri still advertised his theology. This sermon, for instance, was a pastoral work, giving advice on how to prepare for the trials one would face at the time of death. One of these was a final round of temptations by the devil and his minions. Unlike medieval treatments of the topic, Luther’s sermon conspicuously left out the temptation of taking pride in all of the good works one had accomplished in life. In so doing, Luther was preparing his new public audience (the sermon enjoyed 26 editions in four languages by 1525) not only to meet their maker, but also to accept his controversial theology.",
+               "subtitle": "1519 : Leipzig, Germany",
+               "citation": "<i>Eynn sermon vo[n] der bereitu[n]g czum sterben Doc. Mar. lutheri Aug.</i> by Martin Luther. Leipzig: Melchior Lotter, 1519.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2243",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519464"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_154_folio_2v_3r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 42.032974,
+               "lon": -78.57422
+            },
+            "text": {
+               "headline": "Bull Against the Errors of Martin Luther",
+               "text": "When Luther’s theses first came to Rome’s attention in 1518, the papacy very quickly determined them to be heretical, but various political considerations kept this information from becoming public immediately. Thus Luther followed the Church’s standard operating procedure against potential heretics, meeting with various ecclesiastical authorities to plead his case. Since Luther consistently refused to recant, the papacy finally opened a formal public investigation of his ideas in January of 1520, led by one of his more bitter rivals, Johann Eck. The results of this investigation were shared through print. In June, the papacy issued <em>Exsurge Domine</em>, a papal edict (also known as a bull), which formally condemned 41 of Luther’s ideas as heresy, commanded the burning of his books, and forbade him from preaching.",
+               "subtitle": "1520 : Augsburg, Germany",
+               "citation": "<i>Bulla contra errores Martini Luther & sequacium</i>. Augsburg, 1520.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2199",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=286107"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_64_533_sig_c2v_c3r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.625072,
+               "lon": -70.04883
+            },
+            "text": {
+               "headline": "Address to the Nobility of the German Nobility",
+               "text": "After <em>Exsurge Domine</em> appeared, Luther responded with three pamphlets confirming his rejection of the papacy and explaining his theological positions in more detail. <em>To the German Nobility</em>, printed in August, was the first of these to appear, and sought to bring the German princes and laity to his side. Writing in German, Luther refuted the Roman Church’s claims that it was exempt from any secular power, that only the pope could interpret Scripture, and that the pope could not be judged. Even more controversially, he also proclaimed that all Christians belonged to the “priesthood of all believers.” His critiques rang true with many of his German readers, who had long tired of Rome’s influence in their lands. One of them may have been the early owner of the Newberry copy, who underlined many of the text’s most pointed criticisms of the papacy, including Luther’s call, “Let us awake, dear Germans….”",
+               "subtitle": "1520 : Wittenberg, Germany",
+               "citation": "<i>An den christlichen Adel deutscher Nation von des christlichen Standes Besserung<\/i> by Martin Luther. Wittenberg: Melchior Lotter, 1520",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/469",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=516767"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_518_sig_a2_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 44.276672,
+               "lon": -87.27539
+            },
+            "text": {
+               "headline": "On the Babylonian Captivity of the Church",
+               "text": "The second key 1520 pamphlet was written in Latin, and was clearly aimed at an educated audience. In this work, Luther set about undermining the Church’s spiritual authority over the sacraments, the physical signs of divine grace, by subjecting all seven Catholic sacraments to a rigorous examination based on evidence from Scripture. In the end, Luther declared that there were only three true sacraments (baptism, communion, and confession), and accused the Church of using its monopoly over these mysteries to keep the Gospel away from ordinary Christians. The pamphlet was one of Luther’s most explosive works; many intellectuals throughout Europe harshly condemned it, while others were convinced by it to join Luther’s cause. The owner of this copy may have belonged to the latter group, given the abundance of annotations marking out Luther’s arguments.",
+               "subtitle": "1520 : Strasbourg, France",
+               "citation": "<i>De captivitate Babylonica ecclesiae <\/i> by Martin Luther. Strassburg: Johann Schott, 1520.",
+               "digilink": "https://archive.org/stream/case_c_6552_518#page/n7/mode/2up",
+               "digiselection": "",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=517599"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/wing_zp_547_l68_sig_a3r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.625072,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "On the Recent Eckian Bulls and Lies",
+               "text": "By 1520, Luther had created an image of himself as a man who refused to back down from his positions, but was still open to reconciliation with the Church. As the year went on, it became harder to keep up that image. In the summer of 1520, Johann Eck traveled throughout Germany to personally deliver copies of <em>Exsurge Domine</em> and defend the Church’s actions. Luther responded with this pamphlet, his first explicit response to the bull. In it, Luther asserted that the bull was surely Eck’s work alone (which was highly unlikely), leaving the door open for some form of reconciliation with the papacy. At the same time, he ominously threatened that if the pope did not rescind <em>Exsurge Domine</em>, he would prove to the world that the papacy had become the Antichrist, the sworn enemy of Christians everywhere foretold in the book of Revelations.",
+               "subtitle": "1520 : Wittenberg, Germany",
+               "citation": "<i>Von den newen Eckischenn Bullen vnd Lugen </i> by Martin Luther. Wittenberg: Melchior Lotter, 1520.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2203",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=89998"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_4a_2253_tp_01_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 19.311144,
+               "lon": -74.70703
+            },
+            "text": {
+               "headline": "Oration to the German Princes",
+               "text": "For the most part, the papacy felt that publishing <em>Exsurge Domine</em> was the best way to destroy Luther’s popularity. Other Catholics were not so sure. One of them was Tommaso Radini Tedeschi, a Dominican friar known for his skills in oratory. After Luther began attacking the legitimacy of the papal bull in print, Radini Tedeschi took it upon himself to respond with this oration, which was styled as a speech presented before a tribunal of German princes. The work first appeared in Rome in August of 1520, but was quickly published for German audiences in Cologne and Leipzig, in the hopes of cutting off the source of Luther’s strength by turning public opinion against him. But Radini Tedeschi misjudged his audience; the highly classical form and style of the oration and its dependence on Aristotelian philosophy was beyond the grasp of the popular audience that fueled Luther’s popularity.",
+               "subtitle": "1520 : Rome, Italy",
+               "citation": "<i>Thomae Rhadini Todischi Placentini, Or. Prae. ad illustriss. & inuictiss. principes & populos Germaniae :in Martinu[m] Luterum VVittembergensem, or. here. nationis gloria[m] uiolantem oratio<\/i> by Tommaso Radini Tedeschi. Rome: Jacopo Mazzochi, 1520.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2178",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=725161"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_6552_525_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.569283,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "The Grounds and Reasons for All the Articles",
+               "text": "As the Roman Church took steps to excommunicate him, Luther used his pamphlets to wage a public relations battle on two fronts: discrediting the papacy and making his theology convincing for the laity. This pamphlet, his final direct answer to the charges in <em>Exsurge Domine</em>, did both. Here, he sharpened the 41 arguments that the bull had condemned to make them more convincing for a mass audience. He also repeated his insistence that the papacy had revealed itself to be the seat of the Antichrist, warning all members of the true church to abandon the pope in order to secure their salvation. In this, Luther dramatically raised the stakes of the controversy: not only did he signal that reconciliation with Rome was impossible, he also openly encouraged others to join him in what would soon become a new Christian church.",
+               "subtitle": "1521 : Wittenberg, Germany",
+               "citation": "<i>Grund vnnd vrsach aller artickel <\/i> by Martin Luther. Wittenberg: Melchior Lotter, 1521.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2176",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=517816"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_wing_z144_a1_vol_01_no_03_003_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 48.04871,
+               "lon": -101.68945
+            },
+            "text": {
+               "headline": "Determination of the Theological Faculty of Paris on the Doctrines of Luther",
+               "text": "The escalating controversy between Luther and the papacy eventually drew in participants from outside Germany and Rome. In the Middle Ages, the dominant voice in Christian doctrine was the theology faculty at the University of Paris, which prided itself on being the church’s stalwart defender against heretical ideas. Luther’s writings had begun to reach French audiences through printers in Basel and Lyon as early as 1519, but the formal papal investigation into Luther’s ideas compelled the Paris faculty to start its own inquiry. This short pamphlet was the faculty’s official response to the theological claims Luther made in <em>On the Babylonian Captivity</em>, the 1520 pamphlet most clearly directed at a scholarly audience. Not surprisingly, the faculty agreed with the papacy, condemning Luther’s ideas as heretical.",
+               "subtitle": "1521 : Paris, France",
+               "citation": "<i>Determinatio Theologice̦ Facultatis Parisieñ<\/i>. Paris: Jodocus Badius, 1521.",
+               "digilink": "https://archive.org/stream/case_wing_z144_a1_vol_01_no_03#page/n0/mode/2up",
+               "digiselection": "",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=593492"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_395_sig_br_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 56.12106,
+               "lon": -102.74414
+            },
+            "text": {
+               "headline": "Assertion of the Seven Sacraments",
+               "text": "By 1521, Luther’s critics from abroad began to send their works refuting him back into Germany. One of the more famous critics to do this was the young king of England, Henry VIII, who began to write a book against Luther defending the validity of seven sacraments while simultaneously mocking and insulting the reformer. Though it is highly unlikely that the king actually finished the book himself, it was published as his own work in the summer of 1521, and Luther’s Catholic critics in Germany quickly translated it into German so that the masses would read it. Henry’s effort won him great praise from the papacy, which declared him to be a “defender of the faith” in a papal bull issued the following October.",
+               "subtitle": "1521 : London, England",
+               "citation": "<i>Libello huic regio haec insunt : Oratio Ioannis Clerk apud Ro.pon.in exhibitione operis regij. Responsio roman.pont.ad. eandem ex tempore facta. Bulla ro.pon.ad regiam maiestatem, pro eius operis confirmatione. Summa indulge[n]tiaru[m], libellum ipsum regi<\/i> by Henry VIII. London: Richard Pynson, 1521.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2249",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=462672"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_64_533_tp_02_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "On Confession",
+               "text": "The breakneck speed at which the <em>causa Lutheri</em> developed forced Luther to work out much of his theology on the fly and in public view. As his own ideas developed and the division with the Roman Church widened, his pamphlets kept his audience up-to-date on his ideas. In this pamphlet, Luther amended his claim in <em>On the Babylonian Captivity</em> that confession was a sacrament. After further consideration, he asserted that the pope had no power to command anyone to confess their sins before a priest, since the Bible said nothing about it. Even more radically, Luther insisted that “Every Christian is a confessor,” which destroyed the boundary between the clergy and laity that defined medieval society. His words found an eager audience; the pamphlet was published 11 times, reaching as far away as Vienna.",
+               "subtitle": "1521 : Wittenberg, Germany",
+               "citation": "<i>Von der beycht ob die der Bapst macht habe zu gepieten<\/i> by Martin Luther. Wittenberg: Melchior Lotter, 1521.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2292",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519515"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_398_tp_01_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "Against King Henry",
+               "text": "Henry VIII’s book against Luther did not fail to grab the reformer’s attention. In particular, Luther was angry that the king’s book was so readily available in German, which threatened to undermine his support. To head off the danger, Luther quickly published a German response to the king in August. An extended Latin version followed at the end of September, which enjoyed a much wider circulation. In both versions, Luther repeated his insistence that Scripture alone was the ultimate authority that could judge the validity of sacraments, ceremonies, and other elements of “tradition.” Echoing Henry’s own book, he mercilessly insulted Henry, remarking that since he wasn’t acting like a king, Luther was under no obligation to treat him like one.",
+               "subtitle": "1522 : Wittenberg, Germany",
+               "citation": "<i>Contra Henricum regem Angliae <\/i> by Martin Luther. Wittenberg: Johann Rhau-Grunenberg, 1522.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2231",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=517486"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_409_33_023_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "The German New Testament",
+               "text": "Luther believed strongly that all Christians needed to read the Bible to be saved, and he took responsibility for helping them do so with this translation. Not surprisingly, his new Bible was also a crucial plank of his media campaign. Luther asserted that Scripture interpreted itself, but he took care to ensure that “simple” people would interpret it the way he wanted them to by including prefaces, marginal glosses, and woodcuts showing the evil nature of the Roman Church. The clear text, orderly page layout, and relatively manageable size also made the book appealing for the general reader. This was the most popular work Luther ever published; the initial print run of 3,000 to 5,000 copies in September sold out immediately, and over 40 more editions appeared by 1525. By then, anyone who quoted the New Testament in German (including Catholics) was using Luther’s translation.",
+               "subtitle": "1522 : Wittenberg, Germany",
+               "citation": "<i>Das Newe Testament Deutzsch<\/i> by Martin Luther. Wittenberg: Melchior Lotter, 1522.",
+               "digilink": "https://archive.org/stream/case_c_409_33#page/n11/mode/2up",
+               "digiselection": "",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247167"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/wing_zp_547_s337_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "Concerning Spiritual and Monastic Vows",
+               "text": "As Luther’s public prestige grew, he felt compelled to intervene in any matter related to the controversy, especially after his condemnation at the Diet of Worms, when he hid from the authorities at a castle in Saxony for over a year. The pamphlets and letters he wrote during his exile further cemented his reputation as the leader of the new church. For example, in 1522, word reached him of legal disputes in Wittenberg concerning a number of monks who were left in their monasteries. To address this confusing situation, Luther published this work as a guide for those who had abandoned their monastic vows or were thinking of doing so, assuring them that they could renounce their monastic vows without fear. Though not explicitly a polemical attack on the monastic life, the work still undermined another pillar of the medieval church, and further elevated Luther’s role in the public eye.",
+               "subtitle": "1522 : Wittenberg, Germany",
+               "citation": "<i>Uon dem Geystlichen und Kloster gelubten <\/i> by Martin Luther. Wittenberg: Nickel Schirlentz, 1522.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2218",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519497"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_4a_902_no_17_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -70.13672
+            },
+            "text": {
+               "headline": "Against the Spiritual State of the Pope and Bishops, Falsely so Called",
+               "text": "Despite his popularity, Luther still was not able to publish whatever he wanted. When Archbishop Albrecht of Mainz brought the indulgence trade back to his territories, in 1521, an enraged Luther wrote a fiery condemnation of the bishop and sent it to Wittenberg for printing. Luther’s patron, Frederick the Wise, the Duke of Saxony, refused to allow the work to be published, since he feared it might disturb public peace. The following summer, Luther was able to publish this less provocative tract, which took aim at the hypocrisy of the “spiritual estate” of the Roman Church, saying that this concept was used as a cover for the sinful conduct of Catholic bishops. The incident was a potent reminder for Luther that he could not publish anything without taking into account the concerns of the nobles who supported him.",
+               "subtitle": "1522 : Wittenberg, Germany",
+               "citation": "<i>Wider den falsch genantten geystlichen stand des Babst und der bischoffen <\/i> by Martin Luther. Wittenberg: Nickel Schirlentz, 1522.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2212",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519567"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_4a_1824_sig_a1v_a2r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 56.072037,
+               "lon": -102.74414
+            },
+            "text": {
+               "headline": "Defense of the Highest Priest of the Church",
+               "text": "Cardinal Thomas Wolsey, chancellor of England, had an eye on becoming pope someday, and thus enthusiastically carried out <em>Exsurge Domine</em>’s command to destroy Luther’s influence in England. Part of his campaign involved printing various condemnations and refutations of Luther’s ideas, including this work by Edward Powell, a priest and preacher at Henry VIII’s court. Powell was commissioned to write a piece against Luther in 1521; Wolsey thought highly of his first draft, and he published an expanded edition of it in 1523. It took the form of a three-part dialogue between Powell and Luther in which the English priest defended papal sanctity and the seven sacraments. The book included a preface and anti-Luther epigram by other scholars, which showed the range of English intellectuals who contributed to Wolsey’s cause.",
+               "subtitle": "1523 : London, England",
+               "citation": "<i>Propugnaculum summi sacerdotii evangelici, ac septenarii sacramentorum <\/i> by Edward Powell. London: Richard Pynson, 1523.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2241",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=616914"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_64_298_sig_a8v_b1r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 56.07,
+               "lon": -102.74
+            },
+            "text": {
+               "headline": "Confutation of Luther's Assertions",
+               "text": "English writers produced an impressive number of works against Luther, but few showed Luther’s shrewd command of the print market. A case in point is this work by John Fisher, the bishop of Rochester, who made the first English attack on Luther in a sermon preached during a public burning of his books in May 1521. In 1523, Fisher published a meticulous Latin refutation of Luther’s attack on <em>Exsurge Domine</em> that stretched over 200 pages. The immensely learned work made an impact – it was reprinted several times (the Newberry copy was printed in Venice in 1526) and was later used to formulate an official theological answer to Protestantism at the Council of Trent – but did little to slow Luther’s popularity, since a general audience had neither the time nor the capacity to read a work of that size in Latin.",
+               "subtitle": "1526 : London, England",
+               "citation": "<i>Assertionis Lvtheranae confvtatio ivxta vervm ac originalem archetypum, nunc ad vnguem diligentissime recognita <\/i> by John Fisher. Venice: Gregorio de' Gregori, 1526.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2209",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=369875"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_6552_516_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.958427,
+               "lon": -86.74805
+            },
+            "text": {
+               "headline": "Oration to the Damned Lutherans",
+               "text": "From the very beginning of the <em>causa Lutheri</em>, Luther had settled on a strategy of bringing his case before the people by writing fairly short pamphlets in the vernacular. By contrast, his Catholic opponents were much slower to do the same. Initially, the Roman Church attempted to cut off Luther’s public support by using orators, who could theoretically appeal to people better than theologians. Longolius, a German humanist working in Rome, was tapped to contribute to this effort, and he did so with this oration, which was delivered in 1521. However, the work was not printed until 1524, after Longolius’s death (the Newberry copy is a reprint from 1529). In any case, a Latin oration was no match for Luther’s German pamphlets. It took years for the Church to fund theologians to refute Luther’s theology in the vernacular, by which time the damage had already been done.",
+               "subtitle": "1529 : Cologne, Germany",
+               "citation": "<i>Christophori Longolii uiri doctissimi Ad Luterianos iam damnatos oratio, omnibus numeris absoluta<\/i> by Christophorus Longolius. Cologne: Johan Gymnich, 1529.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2204",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=589657"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_554_268_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 41.705727,
+               "lon": -88.94531
+            },
+            "text": {
+               "headline": "On Free Will",
+               "text": "By the mid-1520s, many of Luther’s opponents mistakenly felt that the <em>causa Lutheri</em> was still just a battle between intellectuals, and did not take the role of the general public into account. Even Desiderius Erasmus, the most famous scholar in Europe, made this error. Initially a supporter of Luther’s push for reform, Erasmus gradually distanced himself from the latter’s radical theology. He was especially troubled by Luther’s doctrine of justification by faith alone, which suggested that nothing humans did had any bearing on their salvation, meaning that free will did not exist. Finally, in 1524, the scholar made his first public refutation of Luther with this short treatise, in which he argued that humans were expected to seek out divine grace by choosing to perform good works. The treatise was an immediate success in intellectual circles throughout Germany, but since it was never intended to be read by the general public, it had little impact on the controversy.",
+               "subtitle": "1525 : Basel, Switzerland",
+               "citation": "<i>De libero arbitrio diatribe, siue, Collatio <\/i> by Desiderius Erasmus. Basel: Johann Froben, 1524.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2220",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=359408"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_3a_557_sig_a3v_a4r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 56.072037,
+               "lon": -102.74414
+            },
+            "text": {
+               "headline": "Henry VIII Responds to Luther's Letter",
+               "text": "For all his savvy, not even Luther was immune to mistakes in the printing war. In 1525, King Christian II of Denmark passed on a rumor to Luther that Henry VIII was ready to convert to the evangelical faith. Hopeful to get such a prominent convert for his movement, Luther (against the advice of his colleagues) sent an apologetic letter to Henry in which he tried to take back his harsh words in <em>Against King Henry</em>. The rumor proved unfounded, and Henry gleefully turned the tables on Luther by publishing this work, which reproduced Luther’s letter along with Henry’s mocking commentary. As Luther’s colleagues had feared, the incident struck a blow to Luther’s public image both in Germany and abroad, making him look weak and indecisive before readers everywhere. Perhaps this was on the mind of the owner of the Newberry copy, who translated the letter into English in the margins.",
+               "subtitle": "1526 : London, England",
+               "citation": "<i>Literarum, quibus inuictissimus princeps, Henricus octauus, rex Angliae et Franciae<\/i> by Henry VIII. London, Richard Pynson, 1526.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2227",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=462685"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_4a_902_no_21_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 51.835777,
+               "lon": -72.421875
+            },
+            "text": {
+               "headline": "On the Most Recent Writing of the King of England",
+               "text": "Despite its intention to humiliate him, Luther did not respond to Henry’s second letter immediately. He may never have responded at all had not Jerome Emser, one of Luther’s oldest and most bitter German critics, translated the pamphlet into German with a new title suggesting that Luther had offered to recant his beliefs in order to secure the king’s favor. Quickly realizing the damage such a title could do to his movement, Luther immediately published this short tract to insist that he had no intention of recanting. He was so concerned about this that he also translated the work into Latin, so that audiences everywhere would know his true position. In this, Luther again showed his keen understanding that controlling his public image through print was essential for the success of his movement.",
+               "subtitle": "1527 : Magdeburg, Germany",
+               "citation": "<i>Auff des Konigs zu Engelland lester Schrifft Titel Mart. Luther. Antwort<\/i> by Martin Luther. Magdeburg: Heinrich Ottinger, 1527.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2184",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=516797"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_3a_1445_no_02_sig_e4v_e5r_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.958427,
+               "lon": -86.74805
+            },
+            "text": {
+               "headline": "Anti-Luther Collection",
+               "text": "Luther had determined Catholic critics who were willing to take him on in print from the earliest days of the controversy, but they could not get any financial support from Rome for their efforts. This collection here shows what the Catholic campaign against Luther might have been if given the chance. It was compiled by Johannes Cochlaeus, who had long insisted that Catholic authors should attack Luther in publications geared towards a general audience. His preferred tactic was to print the reformers’ works alongside pro-Catholic commentary, so that all would be able to see them as heretical. He took this approach here, reprinting Luther’s letters to Henry VIII along with critical marginal annotations. Unfortunately for Cochlaeus, official support from Rome would not come until the 1530s, by which time Luther had decisively cornered the market for religious literature for the laity.",
+               "subtitle": "1527 : Cologne, Germany",
+               "citation": "<i>Epistola<\/i> by Martin Luther. Cologne: Peter Quentel, 1527.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2194",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=517740"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_64_594_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 56.02295,
+               "lon": -102.74414
+            },
+            "text": {
+               "headline": "More's Dialogue Against Luther and Tyndale",
+               "text": "By the 1530s, Luther had come to dominate the public understanding of the Reformation to the point that anyone who attacked Protestantism felt the need to attack him as well. Thomas More, the famed English humanist and statesman, wrote a work in English condemning Luther in 1528, before becoming the royal chancellor. The dialogue between the naïve, foolish, and pro-Lutheran Messenger and a mysterious friend, was set up to prove the superiority of Catholic beliefs and protect the papacy from judgment. Most likely, though, More’s real target was not Luther but William Tyndale, whose “Lutheran” New Testament translation had begun to circulate in England.",
+               "subtitle": "1531 : London, England",
+               "citation": "<i>A dyaloge of syr Thomas More knyghte<\/i> by Thomas More. London: William Rastell, 1531.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2217",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=555984"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "./images/case_c_7582_528_tp_o4.jpg",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": 50.513428,
+               "lon": -69.96094
+            },
+            "text": {
+               "headline": "Against the Papacy at Rome, Founded by the Devil",
+               "text": "Luther continued his public relations war up until the end of his life. After Emperor Charles V promised to convene a free council to settle the religious dispute in Germany, Pope Paul III wrote him a letter of stern protest. A copy was passed on to Luther, who responded with this final great polemical work, which he hoped would rouse his audience to make a stand against the diabolical Antichrist sitting on the papal throne before it was too late. To do this, he employed all of the tactics and approaches that had made him the most widely-read intellectual in Europe over the past 30 years: historical analysis, logic, abusive rhetoric, polemical cartoons, and, above all, exegesis of Scripture. In this, the work stands as a kind of summary of the <em>causa Lutheri</em>, showing Luther’s controversial theology, his fiery public persona, and his command of the power of the printed word.",
+               "subtitle": "1545 : Wittenberg, Germany",
+               "citation": "<i>Wider das Bapstum zu Rom vom Teuffel gestifft <\/i> by Martin Luther. Wittenberg: Hans Lufft, 1545.",
+               "digilink": "",
+               "digiselection": "http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2187",
+               "cataloglink": "https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=519559"
+            }
+         },
+         {
+            "date": "",
+            "media": {
+               "url": "",
+               "caption": "",
+               "credit": ""
+            },
+            "type": "overview",
+            "background": {
+               "url": "./images/case_y_682_b87_tp_o3_cropped.jpg",
+               "color": "#000000",
+               "opacity": 0
+            },
+            "location": {
+               "line": true,
+               "zoom": 4,
+               "lat": null,
+               "lon": null
+            },
+            "text": {
+               "headline": "Guide for Further Research",
+               "text": "This resource is illustrative, not comprehensive; the map covers only a small part of this debate, which drew in intellectuals, clergymen, and scholars from all across Europe. Due to the limitations of the Newberry’s collection, many of the important aspects of the <em>Causa Lutheri<\/em> do not appear on this map, such as the internal Catholic debates over how to respond to Luther’s challenge, the many writings supporting Luther, and Luther’s conflicts with other Protestants. It is our hope that this map will serve as an introduction to the <em>Causa Lutheri<\/em>, and the readings listed below will provide a good starting point for a deeper understanding of this important intellectual event and its religious, social, and political impacts.<ul><li>Bagchi, David. “Luther’s Ninety-five Theses and the Contemporary Criticism of Indulgences.” In Robern N. Swanson, ed.<em>Promissory Notes on the Treasury of Merits: Indulgences in Late Medieval Europe<\/em>. Leiden: Brill, 2006, 331-355.<\/li><li>Bainton, Roland. <em>Here I Stand: A Life of Martin Luther<\/em>. New York: Abingdon-Cokesbury Press, 1950.<\/li><li>Benzing, Josef. <em>Lutherbibliographie<\/em>. Baden Baden: Heitz, 1966-1989. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=230813' target='_blank'>View catalog record<\/a><\/li><li>Brecht, Martin. <em>Martin Luther: Shaping and Defining the Reformation, 1521-32<\/em>. Minneapolis: Fortress Press, 1990.<\/li><li>Chrisman, Miriam Usher. <em>Conflicting Visions of Reform: German Lay Propaganda Pamphlets, 1519-1530<\/em>. Boston: Humanities Press, 1996. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=151316' target='_blank'>View catalog record<\/a><\/li><li>Christ-Von Wedel, Christine. <em>Erasmus of Rotterdam: Advocate of a New Christianity<\/em>. Toronto: University of Toronto Press, 2013. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=871193' target='_blank'>View catalog record<\/a><\/li><li>Creasman, Allyson F. <em>Censorship and the Civic Order in Reformation Germany, 1517-1648<\/em>. Aldershot: Ashgate, 2012. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=865327' target='_blank'>View catalog record<\/a><\/li><li>Crofts, Richard A. “Books, Reform and Reformation.” <em>Sixteenth Century Journal<\/em> 16 (1985), 369-381. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=69095' target='_blank'>View catalog record<\/a><\/li><li>Edwards, Jr., Mark U. <em>Luther’s Last Battles: Politics and Polemics, 1531-46<\/em>. Ithaca, NY: Cornell University Press, 1983. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=26857' target='_blank'>View catalog record<\/a><\/li><li>---. <em>Printing, Propaganda, and Martin Luther<\/em>. Berkeley, CA: University of California Press, 1994. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=126847' target='_blank'>View catalog record<\/a><\/li><li>Eisenstein, Elizabeth. <em>The Printing Press as an Agent of Change<\/em>. Cambridge: Cambridge University Press, 1982. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=173307' target='_blank'>View catalog record<\/a><\/li><li>Green, Ian. <em>Print and Protestantism in Early Modern England<\/em>. Oxford: Oxford University Press, 2000. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=617066' target='_blank'>View catalog record<\/a><\/li><li>Hendrix, Scott H. <em>Luther and the Papacy<\/em>. Philadelphia: Fortress Press, 1981. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=756234' target='_blank'>View catalog record<\/a><\/li><li>Hillerbrand, Hans, ed. <em>The Oxford Encyclopedia of the Reformation<\/em>. 4 vols. New York: Oxford University Press, 1998. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=127137' target='_blank'>View catalog record<\/a><\/li><li>Oberman, Heiko. <em>Luther: Man Between God and the Devil<\/em>. New Haven, CT: Yale University Press, 1982.<\/li><li>Pettegree, Andew. <em>Brand Luther: How an Unheralded Monk Turned His Small Town into a Center of Publishing, Made Himself the Most Famous Man in Europe – and Started the Protestant Reformation<\/em>. New York: Penguin, 2015. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=963357' target='_blank'>View catalog record<\/a><\/li><li>---. <em>Reformation and the Culture of Persuasion<\/em>. Cambridge: Cambridge University Press, 2005.<\/li><li>Scribner, Robert.<em> For the Sake of Simple Folk: Popular Propaganda for the German Reformation<\/em>. Cambridge: Cambridge University Press, 1981. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=18169' target='_blank'>View catalog record<\/a><\/li><li>Smith, Preserved. “Luther and Henry VIII.” <em>The English Historical Review <\/em>vol. 25, no. 100 (1910), 656-669. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=74171' target='_blank'>View catalog record<\/a><\/li><li>Surtz, Edward. <em>The Works and Days of John Fisher: An Introduction to the Position of St. John Fisher (1469-1535), Bishop of Rochester, in the English Renaissance and the Reformation<\/em>. Cambridge, MA: Harvard University Press, 1967. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=711292' target='_blank'>View catalog record<\/a><\/li><li>Wicks, Jared. “Roman Reactions to Luther: The First Year (1518).” <em>Catholic Historical Review<\/em> 69 (1983), 521-62. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=69987' target='_blank'>View catalog record<\/a><\/li><li>Whitford, David M., ed. <em>Reformation and Early Modern Europe: A Guide to Research<\/em>. Kirksville, MO: Truman State University Press, 2008. <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=808968' target='_blank'>View catalog record<\/a><\/li><\/ul>",
+               "subtitle": "",
+               "citation": "",
+               "digilink": "",
+               "digiselection": "",
+               "cataloglink": ""
+            }
+         }
+      ],
+      "map_type": "zoomify",
+      "call_to_action_text": "",
+      "map_as_image": false
+   }
+}

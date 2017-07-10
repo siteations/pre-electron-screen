@@ -15,7 +15,7 @@ export const indexMenu = [
 		id: 2,
 	},
 	{
-		title: 'luther controversey',
+		title: 'luther controversy',
 		src: '/luther',
 		id: 3,
 	},
@@ -26,7 +26,7 @@ export const indexMenu = [
 	},
 	{
 		title: 'bible in print',
-		src: '/bibles',
+		src: '/bible',
 		id: 5,
 	},
 	{
@@ -84,8 +84,8 @@ export const indexSubpages = {
 	'/luther': [
 			{menu:'introduction', push:'/luther', hash: null, src: './storymap/luther.html' },
 		],
-	'/bibles': [
-			{menu:'introduction', push:'/bibles', hash: null, src: './storymap/bibles.html' },
+	'/bible': [
+			{menu:'introduction', push:'/bible', hash: null, src: './storymap/bible.html' },
 		],
 	'/america': [
 			{menu:'introduction', push:'/america', hash: null, src: './timeline/index.html'  },

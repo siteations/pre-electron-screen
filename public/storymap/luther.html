@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Luther Controversy</title>
+    <link rel="stylesheet" href="./storymap_luther.css">
+	<link rel="stylesheet" href="./custom.css">
+	<link rel="stylesheet" href="./font.default.css">
+	<link rel="stylesheet" href="./luther.css">
+    <script src="./storymap_luther-min.js"></script>
+
+	<style>.vco-slider-background {background: linear-gradient(to right, rgba(22, 26, 123, 0.7) 0%, rgba(22, 26, 123, 1.0) 100%) !important;}
+	.vco-slider-background {margin-left:0 !important;}
+	</style>
+  </head>
+  <body>
+  <div style="height: 50px">
+  header over this area
+  </div>
+	<div id="mapdiv" style="width: 99%; height: 100%;"></div>
+	<script>
+
+var storymap_data = './testfile.json';
+
+// certain settings must be passed within a separate options object
+var storymap_options = {height: 600};
+
+var storymap = new VCO.StoryMap('mapdiv', storymap_data, storymap_options);
+window.onresize = function(event) {
+    storymap.updateDisplay(); // this isn't automatic
+}
+</script>
+
+  </body>
+</html>

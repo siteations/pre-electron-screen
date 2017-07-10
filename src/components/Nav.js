@@ -26,7 +26,7 @@ class Nav extends Component {
     const match = indexMenu.filter((item) =>{
       return item.id === +event.target.value;
     })[0];
-    this.setState({page:match, submenu: indexSubpages[match.src] });
+    this.setState({page:match, submenu: indexSubpages[match.src]});
     this.props.info.history.push(match.src);
   };
 

@@ -95,7 +95,7 @@ class App extends Component {
           <Frame info={this.props}/>
         </div>
       }
-      {loc === '/bibles' &&
+      {loc === '/bible' &&
         <div>
           <Frame info={this.props}/>
         </div>

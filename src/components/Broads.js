@@ -14,13 +14,13 @@ class Frame extends Component {
   }
 
     componentDidMount() {
-          this.setState({height: window.innerHeight-58});
+          this.setState({height: window.innerHeight-55});
           window.addEventListener('resize', this.handleResize);
     }
 
     handleResize(e) {
         this.setState({
-        height: window.innerHeight-58,
+        height: window.innerHeight-55,
         });
     }
 
@@ -55,7 +55,7 @@ class Frame extends Component {
 
     return (
       <div>
-      <iFrame src={src} width='102%' className="text-center" onLoad={e=>this.getCurrent(e)} height={`${this.state.height}px`} style={{margin: '-18px', padding: '0', position: 'fixed', top:'18px'}}/>
+      <iFrame src={src} width='102%' className="text-center" onLoad={e=>this.getCurrent(e)} height={`${this.state.height}px`} style={{margin: '-18px', padding: '0', position: 'fixed', top:'16px'}}/>
       really?
       </div>
     );

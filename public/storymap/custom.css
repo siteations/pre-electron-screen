@@ -1,0 +1,84 @@
+.vco-clicked-active {height:52px !important; width:38px !important; margin-left: -20px !important; margin-top: -50px !important; -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222); }
+.vco-clicked-active:before {content: "\e600"; font-size: 52px; text-shadow: rgba(0, 0, 0, 0.66) 0 2px 5px;}
+.vco-clicked-active:hover {height:52px !important; width:38px !important; filter: brightness(75%) !important;}
+#mapdiv {height:100vh !important;}
+.vco-slide-calltoaction {padding-top:0px !important;}
+/* .vco-storyslider {height:100% !important;} */
+body {margin:0 !important;}
+.vco-media-item {width:auto !important;}
+.vco-text-content-container h2{font-size:2.5em !important; line-height: 100% !important;}
+.leaflet-hovered {opacity:1.0 !important; height:20px !important; width:20px !important; }
+.vco-clicked{opacity:0.7; -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);}
+.vco-clicked:hover{-webkit-filter: drop-shadow(5px 5px 5px #222) !important;
+filter: drop-shadow(5px 5px 5px #222) brightness(75%) !important;}
+.vco-slide-background {
+	background-size:fill !important;
+}
+
+.vco-menubar {
+    position: absolute;
+    z-index: 11;
+    text-align: left;
+    overflow: hidden;
+    background-color: white;
+    border-bottom: 1px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
+    border-bottom-right-radius: 7px;
+    left: 0;
+}
+
+.view {
+  visibility: hidden;
+}
+
+.hidden {
+  display:none;
+}
+
+.vco-viewmore p {
+  visibility: hidden;
+}
+
+.vco-viewmore  {
+  display: none;
+}
+
+.leaflet-control-attribution {
+  visibility: hidden;
+}
+
+/* @media screen and (max-width: 1100px) {
+  .vco-text-content-container h2{
+    font-size:1.5em !important;
+  }
+  .vco-text-content-container .subtitle {
+	  font-size:1.1em !important;
+  }
+  .vco-text-content p{
+	  font-size: .8em !important;
+  }
+  .vco-citation {
+	font-size: .8em !important;
+  }
+  .vco-viewmore {
+	  font-size: .8em !important;
+  }
+  .vco-storymap p a {
+	  text-decoration: underline;
+  }
+} */
+
+.subtitle {font-family: 'PT Sans Narrow', sans-serif; font-size: 1.5em; text-transform:uppercase;}
+
+/* this eases in dot enlargement but it also makes it look weird when you move across the screen, leave it commented for the time being until a solution can be found */
+/* .leaflet-marker-icon{transition: all .1s ease-in-out !important;} */
+.text_content p{font-size:14px !important;}
+.vco-mapmarker:hover{filter:brightness(75%) !important;}
+.vco-map .leaflet-marker-pane .vco-mapmarker { color: rgba(47, 55, 230, 0.73); width: auto !important; height: auto !important;}
+.vco-text-content-container .vco-text-content p {color:#484545;}
+
+#mapdiv {
+    height: 94vh !important;
+}
