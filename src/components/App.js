@@ -36,6 +36,7 @@ import Biblio from './Biblio';
 import {Footer} from './Footer';
 import AudioFooter from './AudioFooter';
 import Frame from './Broads.js';
+import IndexPage from './IndexPage';
 
 const muiTheme = getMuiTheme({
   fontFamily: 'texta',
@@ -71,9 +72,8 @@ class App extends Component {
     <MuiThemeProvider muiTheme={muiTheme} >
       <div className="App container-fluid">
       {loc === '/' &&
-        <div style={{marginTop: '7vh'}} >
-          index here<br/>
-          to includes all major sites
+        <div style={{marginTop: '50px'}} >
+          <IndexPage info={this.props} />
         </div>
       }
       {loc === '/polyglot' &&

@@ -355,3 +355,33 @@ a:visited {
 	outline-offset: 0px;
 	outline: none;
 }
+
+.titleAlt {
+	color: #ffffff;
+	font-family: 'Lato';
+	vertical-align: baseline;
+	line-height:3em;
+	letter-spacing: 1px;
+	width: 100%;
+	border-bottom: solid 1px #fff;
+
+}
+
+.marg40 {
+	margin-top:40px;
+	padding: 10px;
+}
+
+.indexGen {
+	color: #ffffff;
+	background-color: #666;
+}
+
+.indexItem:hover {
+	background-color: #555;
+	border-radius: 10px;
+}
+
+.uppercase {
+	text-transform: uppercase;
+}

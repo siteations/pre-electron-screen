@@ -14,7 +14,7 @@ class Nav extends Component {
 	constructor(props) {
     super(props);
     this.state = {
-    	page: indexMenu[0],
+    	page: {},
       otherPages: indexMenu,
       submenu: [],
 
@@ -22,15 +22,15 @@ class Nav extends Component {
     this.pushHome = this.pushHome.bind(this);
   }
 
-  handleChange = (event) => {
+  handleChange =(event)=>{
     const match = indexMenu.filter((item) =>{
       return item.id === +event.target.value;
     })[0];
-    this.setState({page:match, submenu: indexSubpages[match.src]});
     this.props.info.history.push(match.src);
   };
 
-  handleChangeMenu = (event, child) => {
+  handleChangeMenu = (event, child)=>{
+    console.log(this);
     this.props.info.history.push(child.props.value);
   }
 
@@ -46,8 +46,13 @@ class Nav extends Component {
     this.setState({page:match, submenu: indexSubpages[site]});
   }
 
-
   render() {
+    let site = this.props.info.location.pathname;
+    const match = indexMenu.filter(item=>{
+      return item.src === site;
+    })[0];
+    let submenu = indexSubpages[site];
+
 
 	return (
 	     <div className="navbarG navbar-fixed-top bshadowed">
@@ -60,8 +65,8 @@ class Nav extends Component {
                 onItemTouchTap={this.handleChangeMenu}
                 style={{'backgroundColor': '#444444', color: '#fff'}}
               >
-              {this.state.submenu.length>0 &&
-                this.state.submenu.map(menuItem=>{
+              {submenu.length>0 &&
+                submenu.map(menuItem=>{
                 return (
                         <MenuItem
                   value={menuItem.push}
@@ -75,10 +80,10 @@ class Nav extends Component {
               }
             </IconMenu>
             </div>
-            <div className="col-md-1 hidden-xs hidden-sm" style={{maxWwidth: '768px', wordWrap: 'break-word'}}><span className="logoPointer" style={{verticalAlign: 'baseline'}}> <img src="./newberry_logo_dark_small.png" onClick={e=>this.pushHome(e)} style={{height:'40px', margin: '.5vh', float: 'right'}} /></span>
+            <div className="col-md-1 hidden-xs hidden-sm" style={{maxWwidth: '768px', wordWrap: 'break-word'}}><span className="logoPointer" style={{verticalAlign: 'baseline'}}> <img src="./newberry_logo_dark_small.png" onTouchTap={e=>this.pushHome(e)} style={{height:'40px', margin: '.5vh', float: 'right'}} /></span>
             </div>
             <div className="col-sm-3 col-xs-11">
-            <select className="navbar-link text-uppercase titleOptions logoPointer" onChange={this.handleChange} value={this.state.page.id}>
+            <select className="navbar-link text-uppercase titleOptions logoPointer" onChange={this.handleChange} value={match.id}>
               {indexMenu &&
                 indexMenu.map(page=>{
                   return <option className="navbar-link text-uppercase titleOptions" value={page.id}>{page.title}<ExpandMore color={'white'}  /></option>
