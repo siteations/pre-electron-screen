@@ -2,6 +2,7 @@
   "name": "polyglots",
   "version": "0.1.0",
   "private": true,
+  "main": "main.js",
   "dependencies": {
     "material-ui": "^0.18.3",
     "react": "^15.6.1",
@@ -12,13 +13,18 @@
     "react-tap-event-plugin": "^2.0.1",
     "scroll-to-element": "^2.0.0"
   },
+  "homepage": "./",
   "devDependencies": {
+    "electron": "^1.6.11",
     "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "electron": "electron .",
+    "servelocal": "http-server ./all -p 3000",
+    "combo": "http-server ./all -p 3000 && electron ."
   }
 }
