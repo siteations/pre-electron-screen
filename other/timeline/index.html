@@ -1,0 +1,28 @@
+      <!-- 1 -->
+	  <link type="text/css" rel="stylesheet" href="./font-awesome.min.css" />
+	  <link type="text/css" rel="stylesheet" href="./fast-fonts.css"/>
+	  <link type="text/css" rel="stylesheet" href="./font-imports.css" />
+	  <link type="text/css" rel="stylesheet" href="./custom.css" />
+	  <link type="text/css" rel="stylesheet" href="./timeline.css">
+	  <link type="text/css" rel="stylesheet" href="./font.default.css" />
+	  <style>body {margin:auto;}</style>
+
+
+      <!-- 2 -->
+      <script src="./timeline.js"></script>
+
+      <div id='timeline-embed' style="width: 100%; height: 800px"></div>
+
+      <!-- 3 -->
+      <script type="text/javascript">
+        // The TL.Timeline constructor takes at least two arguments:
+        // the id of the Timeline container (no '#'), and
+        // the URL to your JSON data file or Google spreadsheet.
+        // the id must refer to an element "above" this code,
+        // and the element must have CSS styling to give it width and height
+        // optionally, a third argument with configuration options can be passed.
+        // See below for more about options.
+        // local https://docs.google.com/spreadsheets/d/1lJgB9Zmhe13iKAEzlquKqAGGjmzM64V0Z6UvLB4c1IQ/pubhtml?gid=0&single=true
+        //timeline = new TL.Timeline('timeline-embed', 'https://docs.google.com/spreadsheets/d/1FksW8bA-fLuxlVRlMGE9EEnpVaWCkvW7XdWOXXOHfD0/pubhtml');
+        timeline = new TL.Timeline('timeline-embed', './houston_sample.json');
+      </script>

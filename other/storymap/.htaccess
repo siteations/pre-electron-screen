@@ -1,0 +1,6 @@
+<FilesMatch "client.html">
+AuthName "Please enter password"
+AuthType Basic
+AuthUserFile /home/newberry/.htpasswd
+require valid-user
+</FilesMatch>

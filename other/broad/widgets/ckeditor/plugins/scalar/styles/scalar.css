@@ -1,0 +1,35 @@
+.note {color:#038200; text-decoration:underline;}
+a.inline {
+	display:block; background:#cccccc; border:solid 5px #bbbbbb; height:75px; margin:0;
+	background-image:url(media.png); background-position:center center; background-repeat:no-repeat;
+	margin-left:20%; margin-right:20%;
+}
+a.inline.inlineWidget {
+	background-image:url(widget.png);
+}
+
+a.inline.inlineWidget[data-widget="visualization"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_visualization.png);
+}
+a.inline.inlineWidget[data-widget="timeline"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_timeline.png);
+}
+a.inline.inlineWidget[data-widget="map"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_map.png);
+}
+a.inline.inlineWidget[data-widget="carousel"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_carousel.png);
+}
+a.inline.inlineWidget[data-widget="card"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_card.png);
+}
+
+a.inline.inlineWidget[data-widget="summary"] {
+	background-size: auto 75%;
+	background-image:url(../../../../../melons/cantaloupe/images/widget_image_summary.png);
+}

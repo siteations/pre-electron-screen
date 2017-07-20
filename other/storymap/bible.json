@@ -1,0 +1,968 @@
+{
+   "storymap":{
+      "attribution":"",
+      "call_to_action":true,
+      "zoomify":{
+         "path":"./Ayer-G-1006.T515.1580-World-Map-rev/",
+         "width":11984,
+         "height":8652
+      },
+      "slides":[
+ {
+   "date": null,
+   "media": {
+      "url": "./images/10658915_transparent_bg_smaller.png",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "overview",
+   "location": {
+      "line": true,
+      "zoom": 6,
+      "lat": null,
+      "lon": null,
+      "icon": "",
+      "use_custom_marker": null,
+      "iconSize": [
+         null,
+         null
+      ]
+   },
+   "text": {
+      "headline": "The Bible in Print, 1450-1700",
+      "text": "<p>The Bible was at the heart of religious change between 1450 and 1700. During these years, the Bible went from being the highly-guarded possession of a privileged few to one of the most widely available books in the world. Scripture was essential for Christians of all sects and denominations, who saw it not only as the key for reaching salvation, but also for maintaining social unity, defining truth, securing hope, and setting the world to rights. The Bible was simultaneously a source of comfort, a cause of anxiety, a political tool, a weapon against heresy, a roadmap for ordering society, and a justification for resistance and violence. As such, editing, translating, and printing the Bible were political, social, and artistic acts as well as religious ones.</p><p>In this resource, you will have the opportunity to explore the complex history of the Bible during this crucial period as told by a small sampling from the Newberry’s collection. As you click through these materials, you will see how the printed Bible reflected the tumultuous religious changes of the early modern period. The texts, images, videos, and links will show you the stories behind some of the Newberry’s most important Bibles, telling you where, how, and why these different editions were made in order to meet the religious needs of their day. Through these stories, you will learn how a single book irrevocably shaped religion, intellectual culture, identity, politics, and language in ways that continue to resonate today.</p><div class='citation'>Above image: <i>Biblia sacra, Hebraicae, Chaldaice, Graece et Latine</i>. Antwerp: Christopher Plantin, 1569</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/575' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235857' target='_blank'>Catalog record</a></p></div><div class='count'><p>1/38</p></div>"
+   }
+},
+ {
+   "date": 1450,
+   "media": {
+      "url": "./images/inc_56_1_01_01_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.959,
+      "lon": -33.2,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         null,
+         null
+      ]
+   },
+   "text": {
+      "headline": "The Gutenberg Bible",
+      "text": "<div class='subtitle'>1450 : Mainz, Germany</div><p>As a contemporary chronicler put it, “printing began” in the West with the production of this 42-line Latin Bible by Johannes Gutenberg. With a staff of as many as twelve printers and six compositors, it took more than two years to print 180 copies of this two-volume, 1282-page Bible (in comparison, a medieval scribe required roughly three years to make just one copy by hand). Like his scribal predecessors, Gutenberg’s Bible used the Vulgate, a fourth-century Latin translation from Hebrew and Greek that was the standard version of the Bible in the Middle Ages. Unlike them, however, Gutenberg’s invention ensured that the Bible would be more easily available to the general public than ever before, and his edition marked the beginning of a new era in how Christians related to and used the book, with at least 80 Latin editions of the Bible appearing by 1500.</p><div class='citation'><i>Biblia Latina</i>. Mainz: Johann Gutenberg, 1450</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/532' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235709' target='_blank'>Catalog record</a></p></div><div class='count'><p>2/38</p></div>"
+   }
+},
+ {
+   "date": 1481,
+   "media": {
+      "url": "./images/inc_5966_folio_179r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.2,
+      "lon": -30.71777344,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Bilingual Psalter",
+      "text": "<div class='subtitle'>1481 : Milan, Italy</div><p>The Greek language made its first appearance in a printed biblical book with this Psalter. During the Renaissance, scholars and printers placed a great value on learning Greek to return to the classical roots of European culture. Biblical scholars were excited to learn it so they could read the New Testament in its original language, and they eagerly sought out Greek manuscripts from the Byzantine Empire. Greek studies received a major boost with the arrival of Byzantine scholars in Europe after the fall of Constantinople to the Ottoman Turks in 1453, who could help edit and prepare Greek texts for printing. This Psalter was intended for use during masses in a church or monastery, and includes two canticles (the Magnificat and the Benedictus) which represented the very first selections from the Greek New Testament to be printed in Europe.</p><div class='citation'><i>[Psalterium Graeco-Latinum cum canticis]</i>. 1481</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/576' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=400646' target='_blank'>Catalog record</a></p></div><div class='count'><p>3/38</p></div>"
+   }
+},
+ {
+   "date": 1483,
+   "media": {
+      "url": "./images/inc_2028_vol_02_pg_579_580_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.93088543,
+      "lon": -30.49804688,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Koberger German Bible",
+      "text": "<div class='subtitle'>1483 : Nuremberg, Germany</div><div class='text_content'><p>This massive German translation of the Bible was published in the same year that Martin Luther was born. This impressive showpiece was produced by Anton Koberger, one of the most influential and successful printer-entrepreneurs in Europe, and was the ninth German Bible issued since 1450. This edition featured a word-for-word translation of the Vulgate, which made for an awkward text that was difficult to read. Koberger’s Bible was clearly meant to be admired, as seen by its impressive size, decorated initials, and 109 woodcuts that had already been used in the Cologne German Bible of 1478. That said, we have evidence that it was also read; the Newberry’s copy shows Bible passages copied out in the margins, which foreshadowed the demand for a vernacular Bible that Luther would exploit four decades later.</p></div><div class='citation'><i>[Biblia Germanica]</i>. Nuremberg: Anton Koberger, 1483</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/494' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=100320' target='_blank'>Catalog record</a></p></div><div class='count'><p>4/38</p></div>"
+   }
+},
+ {
+   "date": 1487,
+   "media": {
+      "url": "./images/inc_2060_vol_03_sig_a1r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.86664561,
+      "lon": -30.89355469,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Vulgate with Glosses",
+      "text": "<div class='subtitle'>1487 : Nuremberg, Germany</div><p>Medieval Bible manuscripts often appeared together with extensive commentaries, or glosses, explaining its many layers of spiritual meaning, which were often written in the margins around the passage being discussed. Scholars, preachers, and theologians would use these interpretations to understand the sacred mysteries contained in the Bible so that they could better teach them to others. After the adoption of print, these commentaries were printed in the margins of complete Bibles, such as in this example from 1487. This copy features the most widely-known commentary on the Bible in the late Middle Ages, the <em>Postilla litteralis super bibliam</em> of Nicholas of Lyra, who relied heavily on traditional Jewish interpretations of the Bible to provide his readers with the best possible understanding of the literal meaning of Scripture.</p><div class='citation'><i>Biblia latina </i>. Nuremberg: Anton Koberger, 1487</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/498' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235755' target='_blank'>Catalog record</a></p></div><div class='count'><p>5/38</p></div>"
+   }
+},
+ {
+   "date": 1500,
+   "media": {
+      "url": "./images/ayer_ms_1467_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 69.7181067,
+      "lon": -108.1933594,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Nahuatl Lectionary",
+      "text": "<div class='subtitle'>1500 : Mexico</div><p>The Spanish missionaries who came to Central and South America in the early 16th century needed biblical material to convert the indigenous Indians there to Christianity. As there were no presses at hand (the Bible would not be printed in Mexico until the 19th century), early missionaries depended on manuscripts of Bible texts that were often translated into indigenous languages. This manuscript, copied out in Mexico in the 16th century, includes Gospel and Epistle readings for use in Catholic services in both Latin and Nahuatl, the language of the Aztec people. An opening inscription in an early modern hand relates that the book was given by one Felipe Valdez to an Indian by the name of Adan Inqauasi, likely very early in the book’s life. Given the book’s content, it is possible that Adan may have been a priest himself, who used this text to minister to the indigenous population in Mexico.</p><div class='citation'><i>Incipiunt Epistolae et Evangelia, quae in diebus dominicis per anni totius circulum leguntur</i>. 15uu</div><div class='view'><p>View: <a href='https://archive.org/details/ayer_ms_1467' target='_blank'>Digitized item</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=136532' target='_blank'>Catalog record</a></p></div><div class='count'><p>6/38</p></div>"
+   }
+},
+ {
+   "date": 1514,
+   "media": {
+      "url": "./images/case_c_211_51_sig_b3v_b4r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 74.5,
+      "lon": -38.36425781,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Complutensian Polyglot Bible",
+      "text": "<div class='subtitle'>1514 : Alcalá de Henares, Spain</div><p>In the early 16th century, biblical scholars increasingly worried about Christians having the best possible text of the Bible to do their work. This concern was shared by Cardinal Francisco Jiménez de Cisneros, who was alarmed at the poor quality of Biblical scholarship in Spain. He assembled a team of eminent scholars to create an edition of the Bible that brought together critical editions of Hebrew, Latin, Greek, and Aramaic versions of the Bible on a single page. Taking up six folio volumes, the first polyglot Bible included dictionaries, grammars, and other reference materials to help readers master the original languages of the Bible (The interlinear notes in the Newberry’s copy suggest that an early owner used the book to learn Hebrew.) In the process, readers would, it was hoped, be able to experience the deep spiritual mysteries that no single language could express. Cisneros’s Bible was a critical success, and was used as the basis for editions and translations of the Bible for the next century.</p><div class='citation'><i>[Biblia]</i>. Alcalá de Henares: Arnao Guillén de Brocar, 1514</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/561' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=398508' target='_blank'>Catalog record</a></p></div><div class='count'><p>7/38</p></div>"
+   }
+},
+ {
+   "date": 1516,
+   "media": {
+      "url": "./images/case_c4_516_sig_a1v_a2r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.41992082,
+      "lon": -33.44238281,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Erasmus's New Testament",
+      "text": "<div class='subtitle'>1516 : Basel, Switzerland</div><p>Hearing about the excitement over the impending Complutensian Bible, the Swiss printer Johannes Froban urged Desiderius Erasmus, the most famous scholar in Europe, to make an edition of the Greek New Testament. Erasmus’s edition, completed and published in less than a year, was far from perfect. It was riddled with many editorial errors, and his revision of the Latin Vulgate caused a great deal of controversy, as scholars accused him of altering the meaning of Scripture and undermining some key tenets of the faith. Erasmus would later take back some of his more controversial editorial decisions, but still maintained that his intention was to save the Bible from the errors and mistranslations that had crept into it over the years. His edition was a great financial success, and revised versions remained among the most important scholarly Bibles of the period; Martin Luther used one to make his own groundbreaking translation of the New Testament in 1522.</p><div class='citation'><i>Novvm instrumentū omne, diligenter ab Erasmo Roterodamo recognitum & omendatum, nõ solum ad graecam ueritatem, uerumetiam ad multorum utriusque linguae codicum, eorumque ueterum simul & emendatorum fidem, postremo a probatissimorum autorum citationem, emendationem & interpretationem, praecipue Origenis, Carysostomi, Cyrilli, Vulgarij, Hieronymi Cypriani, Ambrosij, Hilarij, Augustini, una cū annotationibus, quae lectorem doceant, quid qua ratione mutatum sit</i>. Basel: Johann Froben, 1516</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/565' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=242121' target='_blank'>Catalog record</a></p></div><div class='count'><p>8/38</p></div>"
+   }
+},
+ {
+   "date": 1522,
+   "media": {
+      "url": "./images/case_c_409_33_439_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.29995346,
+      "lon": -30.9375,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Luther's September Testament",
+      "text": "<div class='subtitle'>1522 : Wittenberg, Germany</div><p>Martin Luther firmly believed that all Christians needed to be able to read the Bible in order to be saved. To make this a reality, he translated the New Testament into German over a period of six weeks while hiding out from imperial and ecclesiastical authorities. Unlike earlier German Bibles, Luther worked from the original Greek rather than the Latin Vulgate, and his translation followed the sense of the original rather than word-for-word. As a result, his German Bible was much easier to read than any previous version. Along with this, the book’s clear script, clean page layout, manageable size, and striking woodcuts reflected Luther’s desire to create a Bible that the masses would be able to use. It worked; the initial September print run of 3,000-5,000 copies sold out almost immediately, setting the tone for a flurry of Bible translations; over 400 editions of the Bible in various languages appeared by 1546.</p><div class='citation'><i>Das Newe Testament De&#x16f;tzsch</i>. Wittenberg: Melchior Lotter , 1522</div><div class='view'><p>View: <a href='https://archive.org/stream/case_c_409_33#page/n11/mode/2up' target='_blank'>Digitized item</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=247167' target='_blank'>Catalog record</a></p></div><div class='count'><p>9/38</p></div>"
+   }
+},
+ {
+   "date": 1525,
+   "media": {
+      "url": "./images/case_c3_52_folio_1r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.51,
+      "lon": -29.97070312,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Rabbinic Bible",
+      "text": "<div class='subtitle'>1525 : Venice, Italy</div><p>The 16th century saw a great interest on the part of both Jews and Christians in printing the Old Testament in its original language, Hebrew. One of the most important fruits of that interest was this book, the second edition of the rabbinic Bible (which included the Old Testament books in Hebrew alongside several commentaries). It was published by Daniel Bomberg, a Christian printer who worked closely with Jewish scholars, editors, and religious leaders in Venice to produce critical editions of the key texts of Judaism. The first edition of the rabbinic Bible in 1517 incorporated multiple manuscripts to produce a definitive text and also featured variant readings and the Masorah (a system for pronouncing written Hebrew, which has no vowels) for the first time in print. This second edition refined this text, and it remains the standard edition of the Torah for Hebrew scholars down to the present day. The book also proved popular with a Christian audience, as we can see from the copious Latin annotations in the Newberry’s copy.</p><div class='citation'><i>Ḥamishah ḥumshe Torah Neviʼim rishonim, Neviʼim aḥaronim, Ketuvim, Hafṭarot</i>. Venice: Daniel Bomberg, 1525</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2294' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=237167' target='_blank'>Catalog record</a></p></div><div class='count'><p>10/38</p></div>"
+   }
+},
+ {
+   "date": 1526,
+   "media": {
+      "url": "./images/case_c_217_537_book_2_sig_a2r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.76974676,
+      "lon": -33.22265625,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Tyndale's English New Testament",
+      "text": "<div class='subtitle'>1526 : Worms, Germany</div><p>The Bible appeared in English in print for the first time in Germany, where William Tyndale published his translation of the New Testament. Influenced by both Erasmus’s and Luther’s editions, Tyndale translated the New Testament from the original Greek. Though published abroad, this book caused a sensation in England, with perhaps up to 16,000 copies secretly entering the realm. Tyndale failed to complete his translation of the Old Testament before he was captured and executed in 1536 for his reforming activities, but his work laid the foundation for future English Bibles, including ones sanctioned by the crown. The edition here shows Tyndale’s New Testament as it appeared in the first complete translation of the Bible into English – the so-called Matthew Bible – which was published in 1535. The Newberry’s copy dates from 1537.</p><div class='citation'><i>The Byble which is all the Holy Scripture</i>. Antwerp: Richard Grafton and Edward Whitchurch, 1537</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2286' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238918' target='_blank'>Catalog record</a></p></div><div class='count'><p>11/38</p></div>"
+   }
+},
+ {
+   "date": 1528,
+   "media": {
+      "url": "./images/case_bs_90_1528_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.25,
+      "lon": -34.55,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Pagnini Bible",
+      "text": "<div class='subtitle'>1528 : Lyon, France</div><p>As the Bible began to appear in the vernacular more frequently, other scholars were interested in producing a new Latin translation of the Scriptures to replace the Vulgate. Sainte Pagnino, an Italian scholar working in France, completed the first new translation of the entire Bible into Latin since the Vulgate. His work on the Old Testament took decades but was worth the wait, as his literal translation of the Hebrew was useful for Hebrew scholars of all religious affiliations. Pagnino was interested in using this new Bible to fight heresy, and saw it as a weapon against the growing Protestant churches. Indeed, his preface explicitly denounces Luther on several occasions. Pagnino would have been distressed to learn that Protestants used his translation anyway; no less than John Calvin, the leading figure of the Reformed Church, used a copy of it while writing commentaries on Scripture later in his life.</p><div class='citation'><i>Biblia</i>. Lyon: Antoine du Ry, Francesco Turchi, Dominique Bertus and Jacques Giunta , 1528</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/555' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=160299' target='_blank'>Catalog record</a></p></div><div class='count'><p>12/38</p></div>"
+   }
+},
+ {
+   "date": 1532,
+   "media": {
+      "url": "./images/case_c_23_445_sig_a1r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.5,
+      "lon": -29.75097656,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Brucioli Bible",
+      "text": "<div class='subtitle'>1532 : Venice, Italy</div><p>The Florentine scholar Antonio Brucioli produced an Italian translation of the entire Bible in 1532. Alongside this, he included a massive exegetical commentary on Scripture, the first of its kind to appear in the Italian vernacular. His translation drew a great deal on Latin Bibles produced in Northern Europe – especially the Pagnini Bible and Erasmus’s New Testament. As such, it was very popular with the <em>spirituali</em>, Italians who hoped to reform the Catholic Church along some of the same lines championed by Protestants. This made owning and reading this Bible a suspicious and dangerous act in the eyes of the Catholic Church. Still, Brucioli’s Bible was reprinted many times until it was finally banned by the Inquisition in 1559. The Newberry’s copy was printed in 1541.</p><div class='view'><div class='citation'><i>La Biblia La Qvale In Se Contiene I Sacrosancti Libri Del Vecchio & Nuouo Testamento,</i>. Venice: Francesco Brucioli, 1541</div><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/510' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238601' target='_blank'>Catalog record</a></p></div><div class='count'><p>13/38</p></div>"
+   }
+},
+ {
+   "date": 1539,
+   "media": {
+      "url": "./images/wing_zp_547_s815_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.65,
+      "lon": -31.11328125,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Luther's Complete German Bible",
+      "text": "<div class='subtitle'>1539 : Augsburg, Germany</div><p>After the tremendous success of his New Testament, Luther set to work on translating the rest of Scripture for his eager audience. With all the demands brought on by establishing a new Christian church, it took twelve years to complete the project, with sections of the Bible appearing in 1522, 1524, 1532, and finally in 1534. Whereas the September Testament was produced more or less on his own, the Old Testament required the help of Luther’s fellow reformers, especially Philip Melanchthon and Jonas Justus, who together translated the majority of the final set of Old Testament books to appear. Luther and his colleagues continued to edit and rework the translation after it was published, and in the end around 250 editions of his Bible – or parts of it – were issued before his death in 1546. The Newberry’s copy is one of these revised editions, having been printed in 1539.</p><div class='citation'><i>Biblia, das ist die gantze heilige Schrifft deudsch</i>. Augsburg: Heinrich Stayner, 1539</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/529' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238116' target='_blank'>Catalog record</a></p></div><div class='count'><p>14/38</p></div>"
+   }
+},
+ {
+   "date": 1534,
+   "media": {
+      "url": "./images/case_c_23_3302_folio_519r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76,
+      "lon": -33.1,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Catholic German Bible",
+      "text": "<div class='subtitle'>1534 : Mainz, Germany</div><p>As Luther’s Bible gained more readers, his Catholic opponents issued their own German versions of the Bible to counter its influence. Ironically, most of them depended quite heavily on Luther’s translation, with certain passages changed or annotated to fit with more conservative religious beliefs. The most successful of these Catholic German Bibles was that of Johann Dietenberger, a professor of exegesis and theology at the Academy of Mainz, who published a complete Bible in 1534. At least 19 more editions of his Bible were printed by 1600. While these are impressive numbers, they pale in comparison to those of Luther’s Bible, showing the extent to which Protestants dominated the vernacular Bible market.</p><div class='citation'><i>Biblia</i>. Mainz: Peter Jordan , 1534</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/501' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238114' target='_blank'>Catalog record</a></p></div><div class='count'><p>15/38</p></div>"
+   }
+},
+ {
+   "date": 1535,
+   "media": {
+      "url": "./images/case_23_31_tp.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.30888448,
+      "lon": -33.75,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Oliv&#xe9;tan Bible",
+      "text": "<div class='subtitle'>1535 : Neuch&Acirc;tel, Switzerland</div><p>Luther’s ideas had come to the most Catholic kingdom of France as early as 1519, but it was not until the 1530s that Protestantism began to come into its own there as a distinct church. A sign of this was the production of Bibles in French, of which this edition, produced by Pierre Robert (aka Oliv&#xe9;tan) in 1535, was the first. Like a true Protestant Bible, it was translated from original Hebrew, Aramaic, and Greek texts rather than from the Latin Vulgate. John Calvin, the leading Protestant figure in French-speaking lands, wrote a Latin preface to the whole Bible and a special introduction to the New Testament. The initial audience for the book remained fairly small, but it served as proof that the Protestant minority in France had no intention of leaving anytime soon.</p><div class='citation'><i>La Bible</i>. Neuchâtel: Pierre de Wingle, 1535</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2287' target='_blank'>Digitized selection</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=399646' target='_blank'>Catalog record</a></p></div><div class='count'><p>16/38</p></div>"
+   }
+},
+ {
+   "date": 1539,
+   "media": {
+      "url": "./images/case_c_218_539_book_4_pg_76_77_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.5,
+      "lon": -38.45214844,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Great Bible",
+      "text": "<div class='subtitle'>1539 : London, England</div><p>Beginning in 1539, the first authorized translation of the Bible into English came off the presses. After the Church of England officially broke away from the Roman Church in 1534, King Henry VIII decreed that every church in the realm should own a lavish copy of the Bible, and the so-called Great Bible was produced to satisfy this need. The introductory material to this Bible showed the Church of England’s uncertain place on the religious spectrum between Protestants and Catholics; though it advocated giving the Scripture to the people in a language they could understand, it also insisted that the authority to interpret it belonged only to the Church. Though it never enjoyed widespread readership, the edition was tremendously influential for future editions, including the famous King James version.</p><div class='citation'><i>The Byble in Englyshe</i>. London: Richard Grafton and Edward Whitchurch, 1539</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2253' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=237974' target='_blank'>Catalog record</a></p></div><div class='count'><p>17/38</p></div>"
+   }
+},
+ {
+   "date": 1541,
+   "media": {
+      "url": "./images/wing_zp_552_r42_folio_1v_2r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 77.8,
+      "lon": -32.34375,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Swedish Reformation Bible",
+      "text": "<div class='subtitle'>1541 : Uppsala, Sweden</div><p>As Protestantism spread into other territories, new vernacular translations followed in its wake. In 1525, Gustav Vasa, king of Sweden and ardent Lutheran, ordered that the Bible be translated into Swedish immediately so that his people could participate in the religious debates of the day and so that his priests could become better preachers. Almost two decades later, the first Swedish translation of the full Bible was published, a more-or-less retranslation of the 1539 edition of Luther’s Bible by Olaus Petri and his brother Laurentius. To print this sumptuous 800-page tome, the king imported the German printer Jörgen Richolff, who brought woodcuts from some of Germany’s leading artists. This Bible played a significant role in standardizing and shaping the development of the Swedish language, and heavily influenced future translations until the early 20th century.</p><div class='citation'><i>Biblia </i>. Uppsala: Georg Richolff, 1541</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/521' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=96361' target='_blank'>Catalog record</a></p></div><div class='count'><p>18/38</p></div>"
+   }
+},
+ {
+   "date": 1543,
+   "media": {
+      "url": "./images/case_bs90_1543_folio_1r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.4,
+      "lon": -32.8,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Zurich Bible",
+      "text": "<div class='subtitle'>1543 : Zurich, Switzerland</div><p>By the 1540s, divisions had grown between different groups of Protestants that could not be healed, leading to the creation of multiple Protestant churches, each of which needed its own Bible (or Bibles). This Latin Bible, created by a collection of scholars and theologians in Zurich, was meant to fill this need for the Reformed Church. Leaders of that Church agreed that while a German Bible was necessary to teach Reformed doctrine to the general public, a Latin Bible was needed to help defend the Reformed Church from attacks by Catholics and even other Protestants. As such, this Bible was not meant for use in churches, but for ministers and preachers to learn ancient languages, teach exegesis and doctrine, and prepare sermons. We can glimpse this intention in the red-lined margins on the page, in which scholars were expected to write their notes.</p><div class='citation'><i>Biblia sacrosancta testamenti veteris & noui</i>. Zurich: Christoph Froschauer, 1543</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/506' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=183068' target='_blank'>Catalog record</a></p></div><div class='count'><p>19/38</p></div>"
+   }
+},
+ {
+   "date": 1550,
+   "media": {
+      "url": "./images/case_c_23_209_tp_02_o2.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 77.25,
+      "lon": -33.67,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Christian III's Bible",
+      "text": "<div class='subtitle'>1550 : Copenhagen, Denmark</div><p>Danish translations of the New Testament appeared as early as the 1520s, but it took until 1550 for the first complete Danish Bible to appear. A strict Lutheran, King Christian III had demanded that this translation stay close to Luther’s. This proved to be rather complicated, since Luther was constantly issuing new editions of his Bible, which delayed the completion of the Danish version. Though the translation was the king’s idea, he made sure his subjects shared in the cost. He ordered every parish in his kingdom to contribute money towards purchasing the paper needed for the project, and then commanded them to purchase one of the 3,000 copies in its first run. In addition to making the king a huge profit, Christian’s Bible also heavily influenced the development of the Danish language, as it was what subjects throughout the kingdom spoke and heard on a weekly basis.</p><div class='citation'><i>Biblia, det er, Den gantske Hellige Scrifft</i>. Copenhagen: Ludwig Dietz, 1550</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2258' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=236704' target='_blank'>Catalog record</a></p></div><div class='count'><p>20/38</p></div>"
+   }
+},
+ {
+   "date": 1553,
+   "media": {
+      "url": "./images/case_309_83_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.1,
+      "lon": -29.3,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Ferrara Hebrew Bible",
+      "text": "<div class='subtitle'>1553 : Ferrara, Italy</div><p>In 1492, the thriving Jewish communities in Spain were given a choice: convert or leave. Spanish Jews who chose to leave spread into Greece, northern Europe, and the Near East, bringing their language, culture, and books with them. Spanish exiles in Italy had this disparate population in mind when they prepared this translation of the Old Testament into Spanish, which was most likely intended for Sephardic Jews who openly practiced Judaism in Italy or Amsterdam. In so doing, these scholars continued the long tradition of translating books of the Old Testament into Spanish, which dated back to the thirteenth century. The translation was produced quickly in two separate versions in quick succession, as corrections were made even as the first edition was being printed.</p><div class='citation'><i>Biblia en lengua española traduzida palabra por palabra dela verdad Hebrayca por muy excelentes letrados vista y examinada por el officio dela Inquisicion</i>. Ferrara, 1553</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/550' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=237473' target='_blank'>Catalog record</a></p></div><div class='count'><p>21/38</p></div>"
+   }
+},
+ {
+   "date": 1560,
+   "media": {
+      "url": "./images/case_c_22_560_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.18578928,
+      "lon": -33.57421875,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Geneva Bible",
+      "text": "<div class='subtitle'>1560 : Geneva, Switzerland</div><p>The most influential English translation of the Bible in the early modern period was published by British exiles in Switzerland, who were hiding from the regime of Mary Tudor, who had returned England to Catholicism. Known as the “Bible of the People,” this edition was intended to be owned and used by English readers of all classes. More importantly, the editors of this Bible were, like Luther, interested in helping readers <em>understand</em> the Biblical texts by including maps, explanatory tables, and a series of extensive marginal notes that explained the significance of many passages. The Geneva Bible came to be a favorite translation of Puritans, which made it popular in England as well as in the British colonies in New England. These Bibles were a success by every metric; at least 140 complete or partial editions were issued by 1644, and the books were used so heavily that few were able to survive for long.</p><div class='citation'><i>The Bible and Holy Scriptves conteyned in the Olde and Newe Testament</i>. Geneva: Rowland Hall, 1560</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/538' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=397260' target='_blank'>Catalog record</a></p></div><div class='count'><p>22/38</p></div>"
+   }
+},
+ {
+   "date": 1563,
+   "media": {
+      "url": "./images/bonaparte_13313_003_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.7,
+      "lon": -32.7,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Croatian New Testament",
+      "text": "<div class='subtitle'>1563 : Tübingen, Germany</div><p>During the 16th century, reformers from Central and Eastern Europe found their way to Germany to learn the skills and acquire the tools they would need to reform Christianity in their homelands. Chief among the tools they needed were printed vernacular Bibles. The first Biblical material in Croatian was the result of Lutheran reformers in the kingdom of Hungary. Primož Trubar, a Slovenian priest in exile in the German lands, spearheaded this effort by establishing a printing press at the German city of Tübingen, where he gathered other Slovene and Croat reformers to produce vernacular books (most of them religious in nature) in those languages, the first time any of them had appeared in print. The first New Testament in Croatian – basically a translation of Luther’s Bible printed in Old Church Slavonic – was printed in 1563.</p><div class='citation'><i>[Prvi-drugi del Novoga Testamenta]</i>. Tübingen: Hans Ungnad, 1562/1563</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/549' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=241450' target='_blank'>Catalog record</a></p></div><div class='count'><p>23/38</p></div>"
+   }
+},
+ {
+   "date": 1569,
+   "media": {
+      "url": "./images/case_c_409_8159_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.33115772,
+      "lon": -33.44238281,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Bible of the Bear",
+      "text": "<div class='subtitle'>1569 : Basel, Switzerland</div><p>Spanish officials did everything in their power to keep vernacular translations of the Bible from entering their regions. They were never entirely successful, as Protestant exiles continuously sneaked Spanish Bibles to Spanish audiences. The first translation of the complete Bible from its original languages into Spanish was completed by Casiodoro de Reina, a Spanish Protestant who lived the majority of his life in exile in France, Germany, and England. First Printed in Basel in 1569, Reina intended for his Bible to be smuggled into Spain, but the Inquisition had targeted it for confiscation by 1571. Nonetheless, the “Bible of the Bear” – so-called because of the image on its title page – endured through many revisions and reprintings, and is still used by Spanish-speaking Protestants to this day. The Newberry’s earliest copy of this Bible is a later edition of the New Testament from 1596.</p><div class='citation'><i>El Testamento Nvevo de Nvestro Señor Iesu Christo Luc 210 Heaqui os doy nuevas de gran gozo, que rerá â todo el pueblo</i>. London: Richard Field , 1596</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/558' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238025' target='_blank'>Catalog record</a></p></div><div class='count'><p>24/38</p></div>"
+   }
+},
+ {
+   "date": 1563,
+   "media": {
+      "url": "./images/10658915_transparent_bg_smaller.png",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.21644112,
+      "lon": -35.46386719,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Plantin's Polyglot Bible",
+      "text": "<div class='subtitle'>1563 : Antwerp, Belgium</div><p>The production and printing of new editions of the Bible was a monumental task, and many editors and printers saw them as a chance to display their artistic talents in the service of God. Nearly sixty years after the publication of the Complutensian polyglot, the famed Flemish printer Christopher Plantin resolved to print a revised and expanded polyglot that would confirm his position at the top of his craft as well as show his devotion. Plantin’s polyglot contained revised editions of the biblical texts in Hebrew, Latin, Greek, and Aramaic, but also included an edition and translation in Syriac, the language which the first Christians would have spoken. Initially Plantin sought out Protestant backers for his venture, but after the increase of religious violence in the Low Countries threatened his business, he acquired the patronage of Philip II, king of Spain by pitching the polyglot as a monument of Catholic piety and craftsmanship and a weapon against Protestants and their translated Bibles.</p><div class='citation'><i>Biblia sacra, Hebraicae, Chaldaice, Graece et Latine</i>. Antwerp: Christopher Plantin, 1569</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/575' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235857' target='_blank'>Catalog record</a></p></div><div class='count'><p>25/38</p></div>"
+   }
+},
+ {
+   "date": 1580,
+   "media": {
+      "url": "./images/case_c_23_4858_sig_a1r_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.505,
+      "lon": -38.455,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Reformed Latin Bible",
+      "text": "<div class='subtitle'>1580 : London, England</div><p>When Elector Frederick III of the Rhine-Palatinate decided to switch his religious affiliation from the Lutheran to the Reformed Church, he summoned together Reformed religious thinkers, scholars, and editors to define the faith in a way that would stand up to the criticisms of both Catholics and other Protestants. Two of them, the Jewish convert Immanuel Tremellius and his junior partner Franciscus Junius, were asked to help by producing a new Latin Bible that would support the religious teaching codified in the Heidelberg Catechism of 1563. First published in 1579, their Bible struck a middle ground between literal and stylistic translation, which made it widely appealing to scholars and pastors alike. As such, this edition would go on to be perhaps the most influential Protestant Latin Bible of the early modern period.</p><div class='citation'><i>Testamenti Veteris Biblia Sacra, sive, Libri canonici, priscae Iudaeorum ecclesiae a Deo traditi :Latini recens ex Hebraeo facti, brevibusque scholiis illustrati</i>. London: Henry Middleton, 1580</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/526' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235857' target='_blank'>Catalog record</a></p></div><div class='count'><p>26/38</p></div>"
+   }
+},
+ {
+   "date": 1582,
+   "media": {
+      "url": "./images/case_4a_1839_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 75.97355295,
+      "lon": -34.58496094,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Rheims New Testament",
+      "text": "<div class='subtitle'>1582 : Rheims, France</div><p>Since the 16th century, Catholics faced an uphill battle against Protestants for influence in the European print market, especially in regions that had resolutely broken away from the Catholic Church. Still, the battle went on; English Catholics living in exile in France hoped to provide a Catholic answer to the Protestant dominance of the Bible market with this English translation of the Vulgate, which was first published in 1582 in Rheims. It was a purposefully controversial translation; its creators insisted that the Latin of the Vulgate (not the Greek and Hebrew originals) was the definitive language of Scripture. It was modeled on two of the most stalwart Protestant Bibles (the Great Bible and the Geneva Bible), but the preface and printed annotations in the margins made it impossible for readers to miss its Catholic intentions. Though this edition was harshly attacked by the Church of England, it would go on to exert some influence on the translation of the Protestant King James Bible.</p><div class='citation'><i>The Nevv Testament of Iesvs Christ</i>. Reims: Jean Foigny, 1582</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/535' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=236751' target='_blank'>Catalog record</a></p></div><div class='count'><p>27/38</p></div>"
+   }
+},
+ {
+   "date": 1590,
+   "media": {
+      "url": "./images/wing_zp_535_m467_pg_12_13_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 74.65,
+      "lon": -27.15,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Arabic Gospels",
+      "text": "<div class='subtitle'>1590 : Rome, Italy</div><p>In the late Middle Ages, Europeans thought of the Ottoman Turks as an ominous threat to Christianity. As political and economic relations with the Ottomans became the norm during the 16th century, Christians turned their attention from defeating the Ottomans to converting them. The Medici Press in Rome was founded in 1584 to specialize in printing materials in Arabic for both European and Ottoman audiences. The first book to come off this press was an Arabic translation of the Gospels, complete with woodcuts of the life of Christ. Intended to be of use both to Arabic Christians and European scholars interested in learning Arabic, the book sold poorly, as the press editors misjudged the extent to which Ottoman readers would want to acquire such books. Nevertheless, the Gospels did serve to stimulate Arabic studies in Europe by providing scholars with basic vocabulary and printers with Arabic type to use in future publications.</p><div class='citation'><i>Evangelivm sanctvm Domini Nostri Iesu Christi conscriptvm a qvatvor Evangelistis sanctis idest, Matthaeo, Marco, Lvca, et Iohanne</i>. Rome: Tipografia medicea orientale, 1591</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2158' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=239173' target='_blank'>Catalog record</a></p></div><div class='count'><p>28/38</p></div>"
+   }
+},
+ {
+   "date": 1592,
+   "media": {
+      "url": "./images/case_c_23_48592_tp_02_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 74.6,
+      "lon": -27,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Sixto-Clementine Vulgate",
+      "text": "<div class='subtitle'>1592 : Rome, Italy</div><p>Since the early days of printing, the Vulgate had gone from the unquestioned definitive translation of the Bible to an out-of-date edition that was criticized and disdained by Protestants and Catholics alike. Nevertheless, in the 1540s, the Council of Trent declared the Vulgate to be the only approved version of the Bible for use in the Catholic Church, leaving biblical scholars with the unenviable task of establishing an edition that was “as free from errors as possible.” Decades later, Pope Sixtus V personally took up the challenge. His intentions were good, but his editorial skills were not; the pope strangely overruled his editorial team on several occasions and instituted a different numbering system for the verses, creating a Bible that was despised almost as soon as it appeared in 1590. In 1592, Pope Clement VIII ordered the withdrawal of the Sistine Vulgate and hastily produced a new version in less than a year. Despite its continued problems, this edition stabilized the Catholic Latin Bible for the rest of the early modern period.</p><div class='citation'><i>Biblia sacra vulgatae editionis</i>. Rome: Aldine Press, 1592</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2144' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235862' target='_blank'>Catalog record</a></p></div><div class='count'><p>29/38</p></div>"
+   }
+},
+ {
+   "date": 1611,
+   "media": {
+      "url": "./images/case_c_223_611_tp_02_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.6,
+      "lon": -38.23242188,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The King James Bible",
+      "text": "<div class='subtitle'>1611 : London, England</div><p>James I of England was a deeply religious monarch, who resented the number of competing English translations of the Bible in circulation. He especially detested the Geneva Bible and its marginal comments, some of which seemed to encourage Christian subjects to oppose their rulers. In response to this, James commissioned a new translation of the Bible from the original languages that was to be the definitive English Bible for both the Church and the people. His Bible was to be free of all annotations, and he ordered copies of it placed in churches throughout the realm. Though this became the definitive English translation of the Bible well into the twentieth century, other English Bibles remained popular with many of his subjects.</p><div class='citation'><i>The Holy Bible</i>. London: Robert Barker, 1611</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2155' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=237980' target='_blank'>Catalog record</a></p></div><div class='count'><p>30/38</p></div>"
+   }
+},
+ {
+   "date": 1611,
+   "media": {
+      "url": "./images/c_22_5991_tp_01_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.54,
+      "lon": -38.14453125,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Counterfeit Geneva Bible",
+      "text": "<div class='subtitle'>1611 : London, England</div><p>James I banned the further printing of Geneva Bibles after his official translation was published in 1611. This did nothing, however, to lessen the Geneva Bible’s popularity with readers in England and the American colonies, and printers were happy to capitalize on this demand by printing it in defiance of the royal ban. The Geneva Bible continued to be printed by the king’s printer until 1619, and thereafter in Amsterdam or Edinburgh until 1644. To get around the ban, printers put a false publication date (1599) on the title pages of these illegal Bibles, in case authorities came across any copies.</p><div class='citation'><i>The Bible, that is, The Holy Scriptures conteined in the Olde and Newe Testament, translated according to the Ebrew and Greeke, and conferred with the best translations in diuers languages With most profitable annotations vpon all the hard places, and other things of great importance</i>. London: Christopher Barker, 1599</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2167' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=397318' target='_blank'>Catalog record</a></p></div><div class='count'><p>31/38</p></div>"
+   }
+},
+ {
+   "date": 1639,
+   "media": {
+      "url": "./images/bonaparte_10166_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.34152332,
+      "lon": -35.68359375,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The States' Bible",
+      "text": "<div class='subtitle'>1639 : Amsterdam, Netherlands</div><p>As religion became more closely tied to Europe’s centralizing states, the Bible often found itself used as a political statement. Since 1568, the Protestant Dutch provinces had been embroiled in an armed struggle against the Catholic Spanish rulers of the Low Countries. In 1619, a national synod called for a new translation of the Bible into Dutch, which would be supported fully by the state; hence it was called the <em>Statenvertaling</em> (the States’ Bible). This Bible was among the most overtly political translations ever made; the translators and editors were called from all seven provinces to give the Bible a truly Dutch character, and it was expected to foster a unified religious and political identity in the new Republic. Fittingly, though it was intended to serve the Reformed Church, other Protestant sects in the Netherlands quickly came to adopt the States’ Bible as their own. The first edition of the States Bible appeared in 1637. The Newberry’s earliest complete edition of the <em>Statenvertaling</em> (pictured here) was published in 1639.</p><div class='citation'><i>Biblia, dat is De gantsche H. Schrifture, vervattende alle de canonycke boecken des Oudē en des Niewen Testaments</i>. Amsterdam, 1639</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2164' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=398540' target='_blank'>Catalog record</a></p></div><div class='count'><p>32/38</p></div>"
+   }
+},
+ {
+   "date": 1657,
+   "media": {
+      "url": "./images/case_c_211_657_pg_322_323_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.5,
+      "lon": -38,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The London Polyglot Bible",
+      "text": "<div class='subtitle'>1657 : London, England</div><p>The final great polyglot Bible arose out of the chaos of the English Civil War. This polyglot, produced under the leadership of the Anglican priest Brian Walton, was an attempt to restore unity to the Church by giving everyone access to the Bible in its purest form, which was best expressed in its many ancient translations. Walton’s polyglot included a record nine languages (Latin, Greek, Hebrew, Aramaic, Samaritan, Syriac, Ethiopic, Persian, and Arabic) and was intended to serve as a textbook of sorts for those wishing to learn these Near Eastern languages. In addition, the introductory material remained a standard work of biblical studies until well into the nineteenth century. Unlike previous polyglots, Walton’s was a financial success; it was funded by soliciting advance subscriptions from churches, universities, and the general public, which shows the wide public interest in reading the Bible in multiple languages.</p><div class='citation'><i>Biblia sacra polyglotta</i>. London: Thomas Roycroft, 1657</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2291' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=236649' target='_blank'>Catalog record</a></p></div><div class='count'><p>33/38</p></div>"
+   }
+},
+ {
+   "date": 1660,
+   "media": {
+      "url": "./images/bonaparte_9605_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.28954162,
+      "lon": -35.77148437,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "German Socinian Bible",
+      "text": "<div class='subtitle'>1660 : Amsterdam, Netherlands</div><p>The Bible remained essential even for those Christian sects that strayed from the mainstream. Throughout the sixteenth century, some scholars and intellectuals openly expressed doubts in key Christian doctrines such as the divinity of Christ and the Trinity. Eventually called “Socinians” after the leading uncle-nephew team of Lelio and Fausto Sozzini, these rationalist Protestants thrived in Poland, England, and the Netherlands, and would later be known as Unitarians. In 1660, Jeremias Felbinger printed a Socinian version of the Bible in German, which was essentially Luther’s translation, but with changes to the passages including theological positions Socinians found objectionable. </p><div class='citation'><i>Das Neue Testament</i>. Amsterdam, 1660</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2175' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=238414' target='_blank'>Catalog record</a></p></div><div class='count'><p>34/38</p></div>"
+   }
+},
+ {
+   "date": 1663,
+   "media": {
+      "url": "./images/ayer_421_m435_b5_1663_o2_transparent2.png",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 74.46113445,
+      "lon": -78.96972656,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Eliot Bible",
+      "text": "<div class='subtitle'>1663 : Cambridge, Massachusetts</div><p>John Eliot, an English Puritan missionary living in New England, dedicated his life to bringing American Indians in British colonies to Christianity, especially the Massachusett tribe. As language was the primary barrier for this process, Eliot turned to printing, hoping to produce an entire “Indian library” that would include all of the necessary religious books indigenous readers would need to learn the faith. At the center of this library was this Bible in Massachusett, which was the first Bible ever printed in the Americas in any language. Though the Bible bears Eliot’s name, the translation and editing work was done by his assistants, Massachusett Indians who had converted to Christianity.</p><div class='citation'><i>The Holy Bible</i>. Cambridge: Samuel Green and Marmaduke Johnson , 1663</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2171' target='_blank'>Digitized selections</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=235952' target='_blank'>Catalog record</a></p></div><div class='count'><p>35/38</p></div>"
+   }
+},
+ {
+   "date": 1667,
+   "media": {
+      "url": "./images/case_c_409_3124_tp_o4.jpg",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "",
+   "location": {
+      "line": true,
+      "zoom": 7,
+      "lat": 76.09023583,
+      "lon": -34.27734375,
+      "icon": "http://publications.newberry.org/storymap/images/blue_sq.png",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "The Mons New Testament",
+      "text": "<div class='subtitle'>1667 : Mons, Belgium</div><p>The Inquisition sought to ban all translations of the Bible into the vernacular in Catholic countries, but this position was starting to weaken in the second half of the seventeenth century. At this time, French Catholics openly defied this order by insisting that reading Scripture was the duty of all believers. A wave of Biblical-related publications in French followed to support this duty, centered on the abbey of Port-Royal in Paris. The New Testament produced by this team in 1667 proved to be a smashing success; more than 100,000 copies of it had sold by 1685, and it would exert a powerful influence on the development of the French language. This Bible still earned the wrath of the Jesuits, who claimed to find some latent Protestant ideas in the text.</p><div class='citation'><i>Le Nouveau Testament de Nostre Seigneur Jesus Christ</i>. Mons, 1667</div><div class='view'><p>View: <a href='http://collections.carli.illinois.edu/cdm/ref/collection/nby_dig/id/2140' target='_blank'>Digitized selection</a> | <a href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=243775' target='_blank'>Catalog record</a></p></div><div class='count'><p>36/38</p></div>"
+   }
+},
+{
+   "date": "",
+   "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "overview",
+   "location": {
+      "line": true,
+      "zoom": 6,
+      "lat": null,
+      "lon": null,
+      "icon": "",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "Bibliography",
+      "text": "<p>This resource tells only a small piece of the story of the Bible in the early modern period. We hope that it will serve as a starting point for further research and exploration on the Newberry’s collection and the history of the Bible in general.</p><p>Regarding the first, the examples shown here represent a tiny fraction of the Newberry’s rich collection of over 900 early modern Bibles. To explore these holdings in more detail, follow the catalog links for each Bible in this resource, or contact a Newberry Reference Librarian</p><p>For the Bible in general, there is a vast body of scholarship concerning the Bible and its many meanings and uses during the early modern period; this map only shows the tip of that iceberg. For those interested in learning more about this larger historical context, the following list of works will provide a useful starting point.</p><ol><li>Bentley, Jerry. <i>Humanists and Holy Writ: New Testament Scholarship in the Renaissance</i>. Princeton, NJ: Princeton University Press, 1983.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=49193' target='_blank'> View catalog record</a></li><li>Cameron, Euan, ed. <i>The New Cambridge History of the Bible, Volume 3: From 1450 to 1700.</i> Cambridge: Cambridge University Press, 2016.</li><li>De Hamel, Christopher. <i>The Book. A History of the Bible.</i> London: Phaidon Press, 2001.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=180481' target='_blank'> View catalog record</a></li><li>Gordon, Bruce and Matthew McLean, eds. <i>Shaping the Bible in the Reformation: Books, Scholars and Their Readers in the Sixteenth Century.</i> Leiden, Brill, 2012.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=865324' target='_blank'> View catalog record</a></li><li>Darlow, T.H. and H.F. Moule. <i>Historical Catalogue of the Printed Editions of Holy Scripture in the Library of the British and Foreign Bible Society.</i> 2 vols. London: Bible House, 1903-11.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=54887' target='_blank'> View catalog record</a></li><li>Herbert, A.S. <i>Historical Catalogue of Printed Editions of the English Bible, 1525-1961, Revised and Expanded from the Edition of T.H. Darlow and H.F. Moule.</i> London and New York: British and Foreign Bible Society/American Bible Society, 1968.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=55991' target='_blank'> View catalog record</a></li><li>Miller, Peter N. “The Antiquarianization of Biblical Scholarship and the London Polyglot Bible (1653-57).” Journal of the History of Ideas 62:3 (2001), 463-482.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=73085' target='_blank'> View catalog record</a></li><li>Otero, Andrés Piquer and Pablo Torijano Morales, eds. <i>The Text of the Hebrew Bible and Its Editions: Studies in Celebration of the Fifth Centennial of the Complutensian Polyglot.</i> Supplements to the Textual History of the Bible 1. Leiden: Brill, 2014.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=961276' target='_blank'> View catalog record</a></li><li>Saenger, Paul and Kimberly Van Kampen, eds. <i>The Bible as Book: The First Printed Editions.</i> London and New Castle, DE: The British Library and Oak Knoll Press, 1999.<a class='hidden' href='https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&v1=1&BBRecID=165028' target='_blank'> View catalog record</a></li><li>Sæbø, Magne, Michael Fishbane and Jean Louis Ska, eds. <i>Hebrew Bible/Old Testament: The History of Its Interpretation, v. II: From the Renaissance to the Enlightenment.</i> Göttingen: Vandenhoeck & Ruprecht, 2008.</li></ol><div class='count'><p>37/38</p></div>"
+   }
+},
+{
+   "date": "",
+   "media": {
+      "url": "",
+      "caption": "",
+      "credit": ""
+   },
+   "type": "overview",
+   "location": {
+      "line": true,
+      "zoom": 6,
+      "lat": null,
+      "lon": null,
+      "icon": "",
+      "use_custom_marker": true,
+      "iconSize": [
+         48,
+         43.97969543
+      ]
+   },
+   "text": {
+      "headline": "About this site",
+      "text": "<p>The Bible in Print, 1450 - 1700, is part of Religious Change, 1450 - 1700, the Newberry Library's year-long, multidisciplinary project exploring how religion and print challenged authority, upended society, and made the medieval world modern.</p><p>This site was created in collaboration with DePaul University Library's Digital Services department. It's powered by the open-source tools StoryMap JS, from Northwestern University's Knight Lab, and Scalar, from the Alliance for Networking Visual Culture at the University of Southern California.</p><strong>ABOUT RELIGIOUS CHANGE, 1450 - 1700</strong><br/><p>Religion and print were hinges on which the medieval world opened into the modern. Before and after Martin Luther challenged the Roman Church 500 years ago, quests for spiritual renewal or ecclesiastical reform shook traditional sources of authority across Europe and the Americas. Competing ideas about religious beliefs and practices spread far and wide-especially by the printed word-at a pace power structures had difficulty controlling. These ideas awakened new vistas on life, while provoking hope and fear, anxiety and certainty, protest and violence. The winds of religious change profoundly affected people in all walks of life. They also transformed print in ways that continue to influence how we form and share our beliefs.</p><p>During 2017-18, the Newberry is exploring religious change through a gallery exhibition, Religious Change and Print, 1450-1700 (on view September 14-December 30, 2017), an array of digital resources, and a series of programs for scholars, students, and the general public.</p><p><em>Religious Change, 1450 - 1700</em> is generously supported by a grant from The Andrew W. Mellon Foundation.</p><p><strong>For more information, please visit our project page: <a href='' target='_blank'>Religious Change, 1450 - 1700</a></strong></p><div class='count'><p>38/38</p></div>"
+   }
+}
+],
+      "map_type":"zoomify",
+      "call_to_action_text":"",
+      "map_as_image":false,
+      "map_subdomains":""
+   },
+   "height":"800px"
+}

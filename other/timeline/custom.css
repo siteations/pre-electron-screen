@@ -1,0 +1,5 @@
+.tl-slider-container-mask {background-image:url("./images/Ayer-MS.jpg"); background-size:100%; background-position-y:-350px;}
+.tl-slider-screen {background-color:rgba(137, 111, 106, 0.4); position:absolute; height:100%; width:100%;}
+.tl-text .tl-text-content p {color:white; text-shadow:1px 1px 1px black}
+.tl-text-content-container .tl-headline {text-shadow:1px 1px 1px #FFF;}
+.tl-credit {color:white !important;}

@@ -1,0 +1,41 @@
+.tabs {text-align:center; width:15% !important; line-height:2;}
+.content {margin-left:15% !important;}
+.row {margin-right:0; margin-left:0;}
+.row input {width:50%;}
+.row img {width:30%;}
+.tabs div {cursor:pointer;}
+.tabs div:hover {color:black; opacity:1 !important;}
+h3 div {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+h3 div button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 8px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+	color:black;
+	border-radius:0;
+}
+h3 div button:hover {
+    background-color: #ddd;
+}
+h3 div button.active {
+    background-color: #ccc;
+}
+#submit{
+	border:none;
+	padding: 5px 10px;
+	margin-left:20px;
+	margin-bottom:20px;
+	transition: 0.3s;
+}
+#submit:hover {
+	background-color: #ddd;
+}
+body h1 {padding:20px;}
